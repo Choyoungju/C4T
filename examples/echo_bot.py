@@ -5,7 +5,7 @@ from flask import Flask, request, jsonify
 import pymongo
 import numpy
 import konlpy
-
+#test
 connection = pymongo.MongoClient("localhost", 27017)
 
 db = connection.testDB
