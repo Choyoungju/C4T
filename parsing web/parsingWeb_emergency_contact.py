@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[3]:
+# In[12]:
 
 
 # coding: utf-8
@@ -11,8 +11,8 @@ import csv
 import json
 import xmltodict
 
-url = "http://apis.data.go.kr/1262000/CountryBasicService/getCountryBasicList"
-sKey = "24C%2FxddyRCTiVMSQN7xGhrvODlbKHfrGG%2Bg4ryyKXO8GGVjexQKYpkSH7PHU6MamZZ9qa07Dq9h25bAohPX3Jg%3D%3D"
+url = "http://apis.data.go.kr/1262000/ContactService/getContactList"
+sKey = '24C%2FxddyRCTiVMSQN7xGhrvODlbKHfrGG%2Bg4ryyKXO8GGVjexQKYpkSH7PHU6MamZZ9qa07Dq9h25bAohPX3Jg%3D%3D'
 
 code_list = []
 with open("isoCode.csv", 'r') as f:
@@ -24,13 +24,14 @@ with open("isoCode.csv", 'r') as f:
 code_list = code_list[1:]
 
 for iso in code_list:
-    payload = {'serviceKey': sKey ,'isoCode1':iso}
+    payload = {'serviceKey': sKey,'isoCode1':iso}
     payload_str = "&".join("%s=%s" % (k,v) for k,v in payload.items())
 
     resp = requests.get(url,params = payload_str)
-    xmlString = resp.text     
+    xmlString = resp.text
     jsonString = json.dumps(xmltodict.parse(xmlString,encoding= 'utf-8'), indent=2, ensure_ascii=False)
- 
-    with open("country_info.json", 'a',encoding='utf-8') as f:
+
+    with open("emergency_contact.json", 'a',encoding='utf-8') as f:
         f.write(jsonString)
+
 
