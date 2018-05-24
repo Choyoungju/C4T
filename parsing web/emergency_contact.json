@@ -10680,4 +10680,625 @@
       "totalCount": "1"
     }
   }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit\">대사관 연락처</h3>[주가나한국대사관]<br>ㅇ 주소: No.10, Fifth Avenue Extension, Cantonments, P.O.Box GP 13700, Accra, Ghana<br>ㅇ 대표번호 : +(233) 0302-776-157&nbsp;, 7533 ,9921<br>ㅇ 긴급연락처 : +(233) 244-321-858<br>ㅇ 팩스 : +233 (0)302-772-313<br>ㅇ E mail : <a href=\"mailto:ghana@mofa.go.kr\">ghana@mofa.go.kr</a><br><br></div>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Ghana",
+          "countryName": "가나",
+          "id": "390",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000010504&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000010504&file_sn=3",
+          "wrtDt": "2014-08-04"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit\"><span id=\"_SESpan_StartCaret\"></span><span id=\"_SESpan_StartCaret\"></span>긴급 구조</h3>ㅇ 경찰 1720, 소방서 18, 공안 13, 앰뷸런스 요청 1466, 한인회 0677-1748<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 및 경찰서 연락처</h3>ㅇ 경찰 : 0172-0037, 0176-0445(긴급 연락처 177 혹은 13)<br>\r\nㅇ 소방서 : 0176-1520, 017 4-0955 (긴급 연락처 18) <br>\r\nㅇ 병원 : 0179-0000 혹은 1466(앰뷸런스), 0173-2771 (Jeanne Ebori)<br>\r\nㅇ 한인회 : 0677-1748<br>\r\n<br>\r\n[한국에서 걸 때]<br>\r\nㅇ 경찰 : (00241) 0172-0037, (00241) 0176-0445 <br>\r\nㅇ 소방서 : (00241) 0176-1520, (00241) 0174-0955 <br>\r\nㅇ 병원 : (00241) 0179-0000 혹은 1466(앰뷸런스), 0173-2771 (Jeanne Ebori 병원) <br>\r\nㅇ 한인회 : (00241) 0677-1748<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3><p>[주가봉한국대사관]<br>\r\nㅇ 주소 : B.P. 2620 Libreville, GABON<br>\r\nㅇ 대표번호 : (한국에서 거실 때 00241) 0173-4000 / 0530-1900<br>\r\nㅇ 긴급연락처 : (241) 0750-7822<br>\r\nㅇ 팩스번호 : (241) 0145-2322</p><p><br>\r\n<img alt=\"\" src=\"http://25.media.tumblr.com/dadd603694462e8934f7df846e711cb7/tumblr_mtkni0Vajm1rn8wzmo2_500.jpg\"><br>\r\n<br>\r\nㅇ 오시는 길 : Sablire(사블리에)지역에 있는 Beach club을 지나 100m 직진하시면 좌측에 흰 건물과 파란 지붕으로 축조된 대사관이 보입니다.<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 공항에서 택시 승차시 : 운전사에게 A la Sablire, cent metre aprs le Beach-club, sil vous plait. (아 라 싸블리에, 썽 메트르 아프레 르 비치클럽, 씰부쁠레) 라고 말씀하신 뒤 현지화 1,000 CFA 정도를 지불하시면 됩니다.<br>\r\n<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 자가용 이용 시 : 공항을 빠져나와 우회전 후 직진 → 로터리에서 좌측으로 돌면 보이는 골목으로 진입하여 직진하다가 우회전→5분 정도 직진하면 우측에 Beach Club이 보임 →100m 정도 더 전진하면 좌측에 흰 건물에 파란 지붕으로 축조된 대사관이 보임.<br>\r\n<br>\r\n[근무시간]</p><p>\r\nㅇ 월 ~ 금 : 오전 8:00~12:00, 오후 13:00~16:00 (점심시간 : 12:00~13:00)</p></div>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Gabon",
+          "countryName": "가봉",
+          "id": "2",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_2&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_2&file_sn=3",
+          "wrtDt": "2010-02-03"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급연락처</h3>ㅇ 비상사태 발생 시 도움을 청할 수 있는 긴급 호출번호는 국번 없이 911 입니다. 912는 화재발생시, 913은 앰블런스 사용시 이용 가능합니다.<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ 보건위생관련 말라리아가 내륙의 풍토병이며, 콜레라, 뎅기열, 장티푸스에 걸릴 위험이 있어 관련 예방접종이 요구됩니다. <br>\r\nㅇ 913은 앰블런스 사용시 이용 가능합니다. <br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>※ 가이아나에는 우리대사관이 없으며, 주베네수엘라한국대사관이 겸임하고 있습니다.<br>\r\nㅇ 주소 : Av. Francisco de Miranda, Centro Lido, Torre B, Piso 9, Ofic.91-92-B, El Rosal, Caracas, Venezuela<br>\r\nㅇ 대표번호 : (58-212) 954-1270<br>\r\nㅇ 팩스 : (58-212)954-0619<br>\r\nㅇ E-mail : <a href=\"mailto:venezuela@mofa.go.kr\">venezuela@mofa.go.kr</a>\r\n<br>ㅇ&nbsp;긴급연락처 : (58) 414-241-0056, (58) 412-309-3247, (58) 414-155-4715<br></div>",
+          "continent": "미주",
+          "countryEnName": "Guyana",
+          "countryName": "가이아나공화국",
+          "id": "315",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_315&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_315&file_sn=3",
+          "wrtDt": "2010-02-02"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit\">긴급 연락처</h3>ㅇ 경찰 신고 : (+220) 117 <br>\r\nㅇ 응급 신고(구급차) : (+220) 116 <br>\r\nㅇ 화재 신고 : (+220) 118<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>[주요 의료 시설]<br>\r\nㅇ MEDICAL RESEARCH COUNCIL (MRC)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Atlantic Boulevard Serrekunda, Gambia<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : (+220) 449 5442, 449 5444<br>\r\n<br>\r\nㅇ AHMADIYA HOSPITAL<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Serrekunda, Kombo Sillah Drive<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : (일반) (+220) 439 0621/3, 439 0620/2/4 (치과) (+220) 439 1183 <br>\r\n<br>\r\nㅇ ROYAL VICTORIA TEACHING HOSPITAL<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Independence Drive, Banjul<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : (+220) 422 8224/5/6/7 <br>\r\n<br>\r\nㅇ WESTFIELD CLINIC<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Serrekunda/Westfield Junction<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : (+220) 439 3523, 439 2213<br>\r\n<br>\r\nㅇ LAMTORO MEDICAL CENTRE<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Badala Parkway, Kololi<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : (+220) 446 0934, 446 0596 <br>\r\n<br>\r\nㅇ MOMODOU MUSA MEMORIAL CLINIC<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Serekunda/London Corner Clinic : (+220) 437 1683<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Banjul Clinic : (+220) 422 4320 <br>\r\n<br>\r\nㅇ AFRICMED CLINIC<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Senegambia Junction Kombo Kololi<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : (+220) 446 5359, 773 9415<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Lab, X-ray, 앰뷸런스 이용 가능 <a href=\"http://www.africmed-gm.com/\">www.africmed-gm.com</a><br>\r\n&nbsp;&nbsp;&nbsp;&nbsp;<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>\r\n※ 감비아에는 우리대사관이 없으며, 주세네갈한국대사관이 겸임하고 있습니다.<br>\r\nㅇ 주소 : Ambassade de la Republique de Coree, Villa Hamoudy, Rue Aim Csaire, Fann Rsidence, B.P.5850, Dakar, Sngal<br>\r\nㅇ 이메일 : <a href=\"mailto:senegal@mofa.go.kr\">senegal@mofa.go.kr</a> <br>\r\nㅇ 대표번호 : (+221) 33-824-0672 <br>\r\nㅇ 긴급연락처 : (+221) 78-184-5554<br>\r\nㅇ 팩스번호 : (+221) 33 824 0695<br></div>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Gambia",
+          "countryName": "감비아",
+          "id": "5",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_5&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_5&file_sn=3",
+          "wrtDt": "2011-01-31"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급 연락처</h3>ㅇ 범죄신고 : 110, 120<br>\r\nㅇ 화재신고 : 122, 123<br>\r\nㅇ 응급환자 : 128<br>\r\nㅇ 911 구조대 : 2362-5157 / 2362-5177<br>\r\nㅇ 전화번호 안내 : 2333-1524<br>\r\nㅇ 교통경찰 : 1551<br>\r\nㅇ 아우로라 공한 : 2260-6257<br>\r\nㅇ 주요 경찰서(관할 구역)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 경찰서11 (2232-7579, Zona 1, 2, 3, 4, 8, 9)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 경찰서12 (7879-9655, Zona 6, 17, 18)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 경찰서13 (2362-1141, Zona 5, 10, 13, 14, 15, 16)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 경찰서14 (4042-1455, Zona 7, 11, 12, 21)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 경찰서15 (6631-9310, Villa Nueva, Amatitlan)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 경찰서16 (2431-3313, Zona 19, Mixco, San Cristobal)<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ 과테말라 주요 국립병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Hospital General San Juan de Dios<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 주소 : 1a. Ave. 10-50 Zona 1<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 전화 : 2279-4949<br>\r\n<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp;- Hospital Roosevelt<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 주소 : Calz. Roosevelt Zona 11<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 전화 : 2471-1441<br>\r\n<br>\r\nㅇ 기타 주요병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Centro Medico<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 주소 : 6ta. Ave. 3-47 Zona 10<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 전화 : 2279-4949<br>\r\n<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp;- Hospital Herrera Llerandi<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 주소 : 6ta. Ave. 8-71 Zona 10<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 전화 : 2384-5969<br>\r\n<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Hospital Novicentro<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 주소 : 17 Ave. 28-01 Zona 11 Colonia Las Charcas<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 전화 : 2442-1204 / 2381-1729<br>\r\n<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Hospital Multimedica<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 주소 : Bulv. Vista Hermosa 25-19 5to. Nivel Zona 15, VH1<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 전화 : 2385-7877<br>\r\n<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Sanatorio Nuestra Senora del Pilar<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 주소 : 3a. Calle 10-71 Zona 15, Colonia Tecun Uman<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 전화 : 2420-0000 / 2279-5000<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>ㅇ 주소 : 5a. Ave. 5-55 Zona 14, Europlaza Torre 3, Nivel 7, Guatemala <br>\r\nㅇ 이메일 : <a href=\"mailto:embcor.gt@mofa.go.kr\">embcor.gt@mofa.go.kr</a><br>\r\nㅇ 전화번호 : (502) 2382-4051<br>\r\nㅇ 긴급연락처 : (502) 5561-9956<br>\r\nㅇ 팩스 : (502) 2382-4057<br>\r\nㅇ 근무시간 : 월~금<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 오전 8:30~12:30 / 오후 14:00~17:00<br>\r\n<br></div>",
+          "continent": "미주",
+          "countryEnName": "Guatemala",
+          "countryName": "과테말라",
+          "id": "7",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_7&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_7&file_sn=3",
+          "wrtDt": "2011-01-28"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit\"><span id=\"_SESpan_StartCaret\"></span>긴급연락처</h3>ㅇ 소방서 &amp; 경찰서 - 911<br>\r\nㅇ 앰뷸런스 - 434 (St Georges Area), 724 (St. Andrew Area), 774 (Carriacon Area)<br><br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ St. George Hospital : 473-440-2051<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3><p>※ 그레나다에는 우리대사관이 없으며, 주트리니다드한국대사관이 겸임하고 있습니다. <br>\r\nㅇ 주소 :&nbsp;#36, Elizabeth St., St.Clair, Port of Spain, Trinidad and Tobago <br>\r\nㅇ 대표번호 : +1-868-622-9081&nbsp;<br>ㅇ 긴급연락처 : +1-868-316-5672&nbsp;</p></div>",
+          "continent": "미주",
+          "countryEnName": "Grenada",
+          "countryName": "그레나다",
+          "id": "316",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_316&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_316&file_sn=3",
+          "wrtDt": "2011-07-08"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<h3 class=\"tit\">긴급 연락처</h3>ㅇ 경찰 : 100 <br>\r\nㅇ 화재 시 : 199 <br>\r\nㅇ 긴급의료지원 및 앰뷸런스 요청 : 166 <br>\r\nㅇ 긴급의료기관 요청 전화 : 1016 <br>\r\nㅇ 야간 의사 문의 : 1434 <br>\r\nㅇ 야간 약국 : 14944(공휴일 포함하여 매일신문에 지역별로 공고되고 있음.) <br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ Public Hospitals<br>\r\n<br>\r\nㅇ Alexandra Hospital :<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Vassilissis Sofias street 80 and K. Lourou street, 115 28 Ilisia<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Tel: +30 210 338 1100 <br>\r\n<br>\r\nㅇ Evangelismos: <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Ipsilantou street 45-47, 106 76 Kolonaki<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Tel: +30 210 720 1000<br>\r\n<br>\r\nㅇ 그리스 약국은 월요일&amp;수요일은 8:00~14:30까지, 화, 목, 금요일은 8:00~14:30 ,17:00~20:00까지 영업함. 요일마다 늦게까지 문을 여는 담당 약국이 정해져 있으며 14944번에 연락을 해서 알아볼 수 있음.<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3><p>ㅇ 주소 : 2 -4 Mesogion Ave. Athens Tower A Building, 115 27 Athens, Greece <br>\r\nㅇ 대표번호 : (30) 210-698-4080</p><p><span style=\"line-height: 1.5;\">ㅇ</span><span style=\"line-height: 1.5;\">&nbsp;</span>긴급연락처 : (30) 694-611-7098<br>\r\nㅇ 팩스 : (30-210) 698 4083 <br>\r\nㅇ E-mail : <a href=\"mailto:gremb@mofa.go.kr\">gremb@mofa.go.kr</a> <br>\r\nㅇ 근무시간<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 월-금요일 : 8:00~17:00<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 점심시간 : 12:30~13:30 (7~8월은 점심시간 없음) </p>",
+          "continent": "유럽",
+          "countryEnName": "Greece",
+          "countryName": "그리스",
+          "id": "11",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_11&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_11&file_sn=3",
+          "wrtDt": "2011-01-26"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급 연락처</h3>ㅇ 경찰 신고(Police Seours) : (+224) 1<br>\r\nㅇ 경찰 범죄 진압전담반 BAC (brigades anti-criminalit)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Taouyah, Hamdallaye, Gbessia 및 공항 지역 : (+224) 660 20 10 67<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Kaporo rails, Ratoma 지역 : (+224) 660 25 81 60<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Matoto 지역 : (+224) 660 25 81 62<br>\r\nㅇ 헌병 신고(Gendarmerie) : (+224) 122 (수신자 부담, 2012년부터 기니 전 지역에서 이용 가능) <br>\r\nㅇ 화재 신고 : (+224) 18 또는 630 45 41 14<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>※ 기니에는 우리대사관이 없으며, 주세네갈한국대사관이 겸임하고 있습니다.<br>\r\nㅇ 주소 : Ambassade de la Republique de Coree, Villa Hamoudy, Rue Aim Csaire, Fann Rsidence, B.P.5850, Dakar, Sngal<br>\r\nㅇ 이메일 : <a href=\"mailto:senegal@mofa.go.kr\">senegal@mofa.go.kr</a> <br>\r\nㅇ 대표번호 : (+221) 33-824-0672<br>\r\nㅇ 긴급 연락처 : (+221) 78-184-5554<br>\r\nㅇ 팩스번호 : (+221) 33 824 0695<br>\r\nㅇ 근무시간 : 월~금 오전 8시~12시, 오후 2시~4시</div>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Guinea",
+          "countryName": "기니",
+          "id": "13",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_13&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_13&file_sn=3",
+          "wrtDt": "2011-01-28"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<h3 class=\"tit marz\">의료기관 연락처<br></h3>ㅇ 기니 비사우는 대부분의 의료시설들이 대단히 열악하고 수도인 비사우를 제외하고는 많은 지역이 아직 병원 시설이 전무하다시피 하며, 혹 있다 해도 미흡한 시설로 인해 실질적인 치료를 기대하기가 어려운 실정인 바, 위급상황 발생 시 최대한 빨리 인근 군으로 후송하여야 합니다.<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>※ 기니비사우에는 우리대사관이 없으며, 주세네갈한국대사관이 겸임하고 있습니다.<br>\r\nㅇ 주소 : Ambassade de la Republique de Coree, Villa Hamoudy, Rue Aim Csaire, Fann Rsidence, B.P.5850, Dakar, Sngal<br>\r\nㅇ 이메일 : <a href=\"mailto:senegal@mofa.go.kr\">senegal@mofa.go.kr</a> <br>\r\nㅇ 대표번호 : (+221) 33-824-0672<br>ㅇ 긴급연락처 : (+221) 78-184-5554<br>ㅇ 팩스번호 : (+221) 33 824 0695<br>\r\nㅇ 근무시간 : 월~금 오전 8시~12시, 오후 2시~4시<br><br>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Guinea-Bissau",
+          "countryName": "기니비사우",
+          "id": "14",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_14&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_14&file_sn=3",
+          "wrtDt": "2011-01-31"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<h3 class=\"tit\">긴급 연락처</h3>ㅇ 전국 범죄 신고 10111(빈툭시내 전용은 304)<br>\r\nㅇ 화재신고, 응급의료 211111<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">관광통역 서비스</h3>ㅇ 관광경찰 10111<br>\r\n(범죄 신고 번화와 같으며, 관광객이라고 밝히면 관광객을 위한 경찰 파트로 연결해줌)<br>\r\n<br>\r\nㅇ 관광통역 전화 서비스는 없습니다.<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ 주요 병원(병실 200석 이상)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 빈툭(Windhoek) 지역 : 빈툭 중앙병원(Windhoek Central), 빈툭 카투투라병원(Windhoek Katutura), 로버트무가베 (Robert Mugabe) 병원, 돈커후크(Donkerhoek) 병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 카티마물리로(Katima Mulilo) 지역 : 카티마물리로병원, 바투바자(Batubaja) 병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 난쿤두(Nankundu) 지역 : 카루하(Gcaruha) 병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 룬두(Rundu) 지역 : 룬두병원, 콰징가(Gcwatjinga) 병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 엔젤라(Engela) 지역 : 엔젤라병원, 에둔자(Edundja) 병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 오시쿠쿠(Oshikuku) 지역 : 오시쿠쿠병원, 오공고(Ogongo) 병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 오샤카티(Oshakati) 지역 : 오샤카티병원, 옴푼자(Ompundja) 병원<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 오난조퀴(Onandjokwe) 지역 : 오난조퀴병원, 은다모나(Ndamona) 병원<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3><p>※ 나미비아에는 우리대사관이 없으며, 주앙골라한국대사관이 겸임하고 있습니다.&nbsp;&nbsp;</p><p>ㅇ 주소 : Centro de Convencoes Talatona(chalet A101), Luanda-Sul, Angola<br>\r\nㅇ 대표번호 :&nbsp;+244-222-006-067~068<br>ㅇ 긴급연락처: +244-929-212-880<br>\r\nㅇ Fax : +244-222-006-066<br>\r\nㅇ E-mail : <a href=\"mailto:korembassy_angola@mofa.go.kr\">korembassy_angola@mofa.go.kr</a></p>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Namibia",
+          "countryName": "나미비아",
+          "id": "15",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_15&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_15&file_sn=3",
+          "wrtDt": "2011-01-28"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<h3 class=\"tit\">긴급연락처</h3>ㅇ 경찰 : 110<br>\r\nㅇ 구급차,소방서 : 117,118<br>\r\nㅇ 병원 : 444-3883<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>※ 나우루에는 우리대사관이 없으며, 주피지한국대사관이 겸임하고 있습니다.<br>\r\nㅇ 주소 : Embassy of the Republic of Korea, 8th Floor, Vanua House, Suva, fiji<br>\r\nㅇ 대표번호 : +679-330-0977<br>ㅇ 긴급연락처 : +679-992-1098<br>\r\nㅇ 팩스 : +679-330-8059<br>\r\nㅇ 이메일 : <a href=\"mailto:korembfj@mofa.go.kr\">korembfj@mofa.go.kr</a><br>\r\nㅇ 근무시간 : <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 월-금, 08:30~16:30<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 점심시간, 12:30~13:30<br>\r\n<br>",
+          "continent": "아시아/태평양",
+          "countryEnName": "Nauru",
+          "countryName": "나우루",
+          "id": "306",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_306&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_306&file_sn=3",
+          "wrtDt": "2011-02-18"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<h3 class=\"tit marz\">긴급 연락처</h3>ㅇ 범죄 신고 119<br>\r\nㅇ 화재신고 911<br>\r\nㅇ 현지 열악한 통신환경으로 인해 일반전화의 경우 전화연결이 되지 않는 경우가 대부분입니다. 따라서, 방문 예정지역 경찰서 및 소방서 등 긴급구호기관의 상황실에서 신고 접수용으로 사용하는 휴대전화 번호를 사전 확인하는 것이 필요합니다.<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ 나이지리아의 경우 의료시설이 매우 열악하나 아래 병원에서 기본적인 응급조치는 가능합니다.<br>\r\n<br>\r\nㅇ [아부자]<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - National Hospital : 09-2342-686~9(앰뷸런스 이용 가능)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Dr Hassan's clinic : 0706-686-2500, 0810-368-5559<br>\r\n<br>\r\nㅇ [라고스]<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Reddington Hospital : 01-271-5341(앰뷸런스 이용 가능)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - St. Francis Hospital : 01-269-2305<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - St. Nicholas Hospital : 01-260-0070<br>\r\n<br>\r\nㅇ 말라리아 예방약 등 가정상비약은 약국에서 구매할 수 있으며, 약국은 주요 시설 및 호텔 내에서 찾으실 수 있습니다.<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3><p>ㅇ 주소 : No. 9 ovia cresent, off John Paul 2 street, off Gana street, Maitam, Abuja<br>\r\nㅇ 이메일 : <a href=\"mailto:emb-ng@mofa.go.kr\">emb-ng@mofa.go.kr</a><br>\r\nㅇ 대표번호 : +234-810-389-0991</p><p><span style=\"line-height: 1.5;\">ㅇ</span><span style=\"line-height: 1.5;\">&nbsp;</span>긴급연락처 : +(234) 80-9998-1726<br>\r\nㅇ 근무시간 : 월~목(08:30 ~ 17:30, 중식 12:30~14:00), 금(08:30 ~ 13:00)<br>\r\n<br>\r\n<img title=\"나이지리아 대사관 약도\" style=\"BORDER-TOP: rgb(0,0,0) 0px solid; BORDER-RIGHT: rgb(0,0,0) 0px solid; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid\" alt=\"나이지리아 대사관 약도\" src=\"https://www.0404.go.kr/images/editor/images/000007/Nigeria-mofa_1.jpg\"><br>\r\n<br>\r\n\r\n</p><h3 class=\"tit\">라고스 분관 연락처</h3><p>ㅇ 주소 : Plot 10A&amp;B Layi Ajayi Bembe Street, Parkview Estate, Ikoyi, Lagos<br>\r\nㅇ 이메일 : <a href=\"mailto:koremb_lagos@mofa.go.kr\">koremb_lagos@mofa.go.kr</a><br>\r\nㅇ 대표번호 : (+234) 1271-6295</p><p><span style=\"line-height: 1.5;\">ㅇ</span><span style=\"line-height: 1.5;\">&nbsp;</span>긴급연락처 : (+234) 90-6877-4619<br>\r\nㅇ 근무시간 : 월~금(09:00~17:30)<br>\r\n<br>\r\n<img title=\"나이지리아 총영사관 약도\" style=\"BORDER-TOP: rgb(0,0,0) 0px solid; BORDER-RIGHT: rgb(0,0,0) 0px solid; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid\" alt=\"나이지리아 총영사관 약도\" src=\"https://www.0404.go.kr/images/editor/images/000007/Nigeria-mofa2.jpg\"></p>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Nigeria",
+          "countryName": "나이지리아",
+          "id": "18",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_18&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_18&file_sn=3",
+          "wrtDt": "2011-08-09"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급 연락처</h3>ㅇ 범죄신고는 주바의 경우에만 해당됩니다.<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; -09-5627-2222<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; -09-6538-6360<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; -09-1329-3938<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; -09-1454-9889<br>\r\n<br>\r\nㅇ 한국에서 전화 할 때는 국가번호+211에 0을 제외한 번호를 입력하시면 됩니다. <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 화재신고 부서는 아직 정리 되어 있지 않다고 합니다. <br>\r\n<br>\r\n\r\n<h3 class=\"tit marz\">의료기관 연락처</h3>ㅇ 인터내셔날 병원 International Hospital (Juba Clinc)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : +211-9-5439-4681<br>\r\n<br>\r\nㅇ 빅토리어스 메티컬 센터(Victorious Medical Center)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : +211-9-5608-1081, +211-9-5500-0061<br>\r\n<br>\r\nㅇ 의료관련 긴급상황(Emergency) 발생시<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; -대표 전화번호 : +211-9-2665-9519, +211-9-7711-2793<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>※&nbsp;남수단에는 우리대사관이 없으며, 주우간다한국대사관이 겸임하고 있습니다.<br>\r\n<br>\r\n[주소 및 연락처]<br>\r\nㅇ 주소 : Embassy of the republic of Korea Plot 14, Ternan Road, Nakasero, Kampala, Uganda<br>\r\nㅇ 대표번호 : +256-414-500-197<br>\r\nㅇ 팩스 : +256-414-500-199 <br>\r\nㅇ 긴급 연락처 : +256-774-478-376<br>\r\nㅇ E-mail : <a href=\"mailto:emb.kampala@mofa.go.kr\">emb.kampala@mofa.go.kr</a><br>\r\n<br>\r\n[근무시간]<br>\r\nㅇ 월요일~목요일 : 08:30 ~ 12:30, 14:00 ~17:00<br>\r\nㅇ 금요일 : 08:30 ~ 12:30</div><span id=\"_SESpan_StartCaret\"></span>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Republic of South Sudan",
+          "countryName": "남수단",
+          "id": "373",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_373&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_373&file_sn=3",
+          "wrtDt": "2011-08-05"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급 연락처</h3>ㅇ 경찰, 화재 및 응급환자(앰뷸런스) 신고는 10111<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3><br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>ㅇ 주소 : 265 Melk Street, Nieuw Muckleneuk, Pretoria 0181, South Africa<br>\r\nㅇ 대표번호 : +(27) 12-460-2508<br>\r\nㅇ 긴급연락처 : +(27) 72-136-7615,&nbsp;<b>​</b>여권 등 민원 관련 연락처 : +(27) 71-474-7458<br>\r\nㅇ 팩스 : (국가번호 27) 12-460-1158<br>\r\nㅇ E-mail : <a href=\"mailto:embsa@mofa.go.kr\">embsa@mofa.go.kr</a><br></div>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Republic of South Africa",
+          "countryName": "남아프리카공화국",
+          "id": "20",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_20&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_20&file_sn=3",
+          "wrtDt": "2011-03-24"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급연락처</h3>ㅇ 화재, 범죄, 응급 요청 시 : 112<br>\r\nㅇ 전화번호 안내 : 1888<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ 암스테르담<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 병원 : VU medisch centrum<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호: 020-444-3636(긴급)<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : De Boelelaan 1117 1081 HV Amsterdam<br>\r\n<br>\r\nㅇ 로테르담<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 병원 : Havenziekenhuis<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : 010-404-3300<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Haringvliet 2 3011 TG Rotterdam<br>\r\n<br>\r\nㅇ 헤이그<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 병원 : Hagaziekenhuis van Den Haag<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : 070-210-0000<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Sportlaan 600, 2566MJ, the Hague<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>ㅇ 주소 : Verlengde Tolweg 8 2517 JV, Den Haag<br>\r\nㅇ 이메일 : <a href=\"mailto:koreanembassynl@mofa,go,kr\">koreanembassynl@mofa,go,kr</a> <br>\r\nㅇ 대표번호 : (31) 70-740-0200(네덜란드 내에서는 070-740-0200)<br>\r\nㅇ 긴급연락처 : (31) 65-396-2364 <br></div>",
+          "continent": "유럽",
+          "countryEnName": "Netherlands",
+          "countryName": "네덜란드",
+          "id": "21",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_21&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_21&file_sn=3",
+          "wrtDt": "2010-03-17"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급연락처</h3>ㅇ 범죄 신고 : 100 <br>\r\nㅇ 화재신고 : 101<br>\r\nㅇ 엠블란스 : +977-1-4228094, 4211959, 4230213<br>\r\nㅇ 전화번호 안내 : 197<br>\r\nㅇ 트리부반 국제공항 : +977-1-4473779, 4470311<br>\r\nㅇ 네팔 출입국 사무소(카트만두) : +977-1-4429660, 4429659 <br><br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ 네팔 현지의 대부분의 병원이 노후 되었고 위생상태가 좋지 않지만 간단한 수술과 약품 구입은 가능합니다. <br>\r\nㅇ 현지 의사들의 경우는 대부분 영어 사용이 가능함으로, 영어로 진찰 및 약 처방을 받을 수 있습니다.<br>\r\nㅇ 의사들에게 약 처방을 받고 주변 약국에서 약을 구입할 수 있습니다.<br>\r\nㅇ 현지 종합병원 연락처<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 노르빅 Hospital : +977-1-4258554<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 티칭 Hospital : +977-1-4412303, 4412505<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 파탄 Hospital : +977-1-5521034, 5521048<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - CIWEC CLINIC Hospital : +977-1-4424111, 4424242<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 외국인에게는 병원비를 현지인 보다 비싸게 받는 경우가 있으니 사전에 요금을 반드시 확인하셔야 합니다.<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>ㅇ 주소 : P.O. Box 1058, Ravibhawan Tahachal, Kathmandu, Nepal <br>\r\nㅇ 전화번호 : +977-1427-7391<br>\r\nㅇ 긴급연락처 : +977-98510-33178<br>\r\nㅇ 팩스 : + 977-1-4275485, 4272041<br>\r\nㅇ E-mail : <a href=\"mailto:konepemb@mofa.go.kr\">konepemb@mofa.go.kr</a><br></div>",
+          "continent": "아시아/태평양",
+          "countryEnName": "Nepal",
+          "countryName": "네팔",
+          "id": "22",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_22&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_22&file_sn=3",
+          "wrtDt": "2010-03-24"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit\">긴급연락처</h3>ㅇ 경찰 : 112<br>\r\nㅇ 앰뷸런스 : 113<br><br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ 긴급 의료지원 : (+47) 2255-1010<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 약국 : (+47) 2241-2482<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 병원 : (+47) 2293-2293<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>ㅇ 주소 : inkognitogaten 3, 0244 oslo, Norway<br>\r\nㅇ 대표번호 : (+47) 2254-7090<br>\r\nㅇ 팩스 : (+47) 2256-1411 <br>\r\nㅇ 긴급 연락처 : (+47) 9093-1678<br>\r\nㅇ 이메일 : <a href=\"mailto:kornor@mofa.go.kr\">kornor@mofa.go.kr</a><br>ㅇ 업무시간(월~금) : 08:45~16:15 (점심 12:00~13:00)</div>",
+          "continent": "유럽",
+          "countryEnName": "Norway",
+          "countryName": "노르웨이",
+          "id": "23",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_23&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_23&file_sn=3",
+          "wrtDt": "2010-02-03"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급연락처</h3>ㅇ 긴급 구급차 및 경찰 연락번호 : 111<br>\r\nㅇ 오클랜드공항에서 물품 분실 시 연락처<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 월~금 9am~4pm<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화 : +64-9-256-8813 또는 이용 항공사<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 이메일 <a href=\"mailto:lostproperty@akl-airport.co.nz\">lostproperty@akl-airport.co.nz</a><br>\r\n<br>\r\nㅇ 각 지역 경찰서 연락처<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 웰링턴 : +64-4-381-2000<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 오클랜드 : +64-9-302-6400<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 크라이스트처치 : +64-3-363-7400<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 넬슨 : +64-3-546-3840<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 더니든 : +64-3-471-4800<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 퀸스타운 : +64-3-441-1600<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 팔머스톤노스 : +64-6-351-3600<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * 뉴질랜드 현지에서 로밍폰이 아닌 현지 전화를 사용하실 경우에는 국가번호 64를 제외하고 사용하세요. <br>\r\n예) 대사관으로 전화할 때 : 로밍폰 :+64-4-473-9073 , 현지 전화 : 04-473-9073<br><br>\r\n\r\n<h3 class=\"tit marz\">의료기관 연락처</h3>ㅇ 웰링턴 <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - After hours medical centre:<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * Wellington Hospital +64-4-385-5999 <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; * lower hutt: +64-4-567-5345 <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 24시간 응급실(AMC) : +64-4-3844944<br>\r\n<br>\r\nㅇ 크라이스트처치 Christchurch Hospital : +64-3- 364-0640<br>\r\nㅇ 넬슨 Nelson Hospital : +64-3-546-1800<br>\r\nㅇ 더니든 Mercy Hospita : +64-3-464-0107<br>\r\nㅇ +64-3-441-0015<br>\r\nㅇ +64-6-356-9169<br>\r\nㅇ 오클랜드 <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 시티병원: +64-9-307-2800<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 스타십(starship) 어린이병원 : +64-9-307-8900<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 응급병원(Ascot 24 Hours) : +64-9-520-9555 (옵션 0번을 선택) <br>\r\n<br>\r\n\r\n<h3 class=\"tit marz\">대사관 연락처</h3>ㅇ 주소 : 11th Floor, ASB Bank Tower, 2 Hunter Street, Wellington 6011, New Zealand&nbsp;&nbsp;<br>\r\nㅇ 이메일 : <a href=\"mailto:info-nz@mofa.go.kr\">info-nz@mofa.go.kr</a><br>\r\nㅇ 대표번호 : +64-4-473-9073~4<br>\r\nㅇ 긴급연락처 : +64-21-0269-3271<br>\r\nㅇ 근무시간 : 월~금, 오전 9시 ~ 오후 5시<br>ㅇ 팩스 : +64-4-472-3865<br>\r\n<br>\r\n<img title=\"대사관전경\" style=\"BORDER-TOP: rgb(0,0,0) 0px solid; HEIGHT: 216px; BORDER-RIGHT: rgb(0,0,0) 0px solid; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid; WIDTH: 169px\" alt=\"대사관전경\" src=\"https://www.0404.go.kr/images/editor/images/000006/emb1_1.bmp\"><br>\r\n<br>\r\n\r\n<h3 class=\"tit marz\">오클랜드 분관 연락처</h3>ㅇ 주소 :&nbsp;Level 12, Tower 1, 205 Queen Street, Auckland Central , New Zealand&nbsp;<br>\r\nㅇ 이메일 : <a href=\"mailto:auckland@mofa.go.kr\">auckland@mofa.go.kr</a><br>\r\nㅇ 대표번호 : +64-9-379-0818<br>\r\nㅇ 긴급연락처 : +64-27-646-0404<br>ㅇ 팩스 : +64-9-373-3340<br>\r\nㅇ 근무시간 : 월~금, 오전 9시 ~오후 5시<br>\r\n<br>\r\n<img title=\"오클랜드 \" style=\"BORDER-TOP: rgb(0,0,0) 0px solid; BORDER-RIGHT: rgb(0,0,0) 0px solid; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid\" alt=\"오클랜드 \" src=\"http://www.0404.go.kr/images/editor/images/000013/Auckland.jpg\"><br></div>",
+          "continent": "아시아/태평양",
+          "countryEnName": "New Zealand",
+          "countryName": "뉴질랜드",
+          "id": "25",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_25&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_25&file_sn=3",
+          "wrtDt": "2010-01-11"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<div><h3 class=\"tit marz\">긴급 연락처</h3>ㅇ 비상상황 999<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ 의료기관 연락처 : Niue Foou Hospital <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 주소 : Kaimiti, Alofi<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 운영시간 : ▲월~목요일 8am ~ 4pm, ▲금요일 9am ~ 10am &amp; 7pm ~ 8pm, ▲주말 및 공휴일&nbsp; 9am ~ 10am &amp; 7pm ~ 8pm <br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - 전화번호 : 국번없이 4100<br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3>ㅇ 주소 : Level 11, ASB Bank Tower, 2 Hunter St. Wellington <br>\r\nㅇ 홈페이지 : <a href=\"http://nzl-wellington.mofa.go.kr\" target=\"blank\">nzl-wellington.mofa.go.kr</a><br>\r\nㅇ 이메일 : <a href=\"mailto:info-nz@mofa.go.kr\">info-nz@mofa.go.kr</a><br>\r\nㅇ 대표번호 : +64-4-473-9073<br>\r\nㅇ 긴급연락처 : +64-21-0269-3271, +64-22-390-8213 <br>\r\nㅇ 근무시간 : 월~금, 오전9시 ~ 오후5시<br></div>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Niue",
+          "countryName": "니우에",
+          "id": "380",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000008142&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=FILE_000000000008142&file_sn=3",
+          "wrtDt": "2013-12-16"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<h3 class=\"tit marz\">긴급연락처</h3>\r\n<div>ㅇ 긴급전화: 17 또는 18<br>&nbsp;&nbsp;&nbsp;&nbsp; ※ 다만, 인력 및 장비 부족으로 신속성을 신뢰할 수 없으므로, 연락 후 마냥 기다리지 말고 다른 수단을 병행하여 강구하는 것이 바람직합니다.</div>\r\n<div><br>\r\nㅇ 니제르 현지에서 도움을 받을 수 있는 우리나라 교민이 거의 없으며 종교활동을 하는 선교사가 일부 있습니다.<br>\r\n<br></div>\r\n<h3 class=\"tit marz\">의료기관 연락처<br></h3>\r\n<div>ㅇ 의료시설 및 약국은 상당히 부족하며, 수도 니아메이 이외의 지역은 더욱 열악하므로, 여행 시 비상약품을 휴대하는 것이 필요합니다.</div>\r\n<div><br>\r\nㅇ 종합병원은 아래와 같습니다.<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Hopital National de Niamey: 2072 2253, 2072 2326<br>\r\n&nbsp;&nbsp;&nbsp;&nbsp; - Hopital National de Lamorde: 2031 6876<br>\r\n<br></div>\r\n<h3 class=\"tit\">대사관 연락처</h3>\r\n<div>※ 니제르에는 우리대사관이 없으며, 주코트디부아르한국대사관이 겸임하고 있습니다.<br>\r\nㅇ 주소: Rue Monseigneur Kouassi, lot 100 Cocody Ambassade 01 BP 3950 Abidjan, Cte dIvoire<br>\r\nㅇ 대표번호 : +225-2248-6701/6703<br>\r\nㅇ 긴급연락처 : +225-0702-3047<br>\r\nㅇ 팩스 : +225 2248 6757<br>\r\nㅇ E mail : <a href=\"mailto:ambcoabj@mofa.go.kr\">ambcoabj@mofa.go.kr</a></div>\r\n<div><br>\r\n[현지인 명예영사]<br>\r\nㅇ 전화: +227-2073-8888<br>ㅇ 사무실 위치: 276 Rue de Grand Hotel, Niamey</div>\r\n<div><br>\r\n[민원업무시간]<br>ㅇ 월~금 9:00~12:00 / 14:00~17:00 (단 수요일 9:00~12:00) </div>",
+          "continent": "중동/아프리카",
+          "countryEnName": "Niger",
+          "countryName": "니제르",
+          "id": "27",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_27&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_27&file_sn=3",
+          "wrtDt": "2010-10-04"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": {
+        "item": {
+          "contact": "<h3 class=\"tit marz\">긴급 연락처</h3>ㅇ 경찰서 118<br>\r\nㅇ 소방서 158<br>\r\nㅇ 구조대 128<br>\r\nㅇ 전화국 121<br><br>\r\n<h3 class=\"tit\">의료기관 연락처</h3>ㅇ Hospital Metropolitano Vivian Pellas<br>\r\nㅇ 주소 : Masaya Highway 9.75Km, 250m to west<br>\r\nㅇ 전화번호 : 2255-6900(현지, 한국에서 걸 때 국가번호 505-2255-6900)<br>\r\n<br>\r\n<img title=\"니카라과 의료기관 약도\" style=\"BORDER-TOP: rgb(0,0,0) 0px solid; BORDER-RIGHT: rgb(0,0,0) 0px solid; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid\" alt=\"니카라과 의료기관 약도\" src=\"https://www.0404.go.kr/images/editor/images/000008/mapnicaragua1.jpg\"><br>\r\n<br>\r\n\r\n<h3 class=\"tit\">대사관 연락처</h3><p>ㅇ 주소 : Edificio Invercasa Torre III 5to piso Frente al Hospital Monte España, Managua, Nicaragua<br>\r\nㅇ 이메일 : <a href=\"mailto:nicaragua@mofa.go.kr\">nicaragua@mofa.go.kr</a><br>\r\nㅇ 대표번호 : (505) 2267-6777</p><p><span style=\"line-height: 1.5;\">ㅇ</span><span style=\"line-height: 1.5;\">&nbsp;</span>긴급연락처 : (505) 8238-9371<br>\r\nㅇ 근무시간 : 월~금 : 8:30~17:00 (12:00~13:30 점심시간)<br>\r\n<br><img src=\"/neditor/imafname.mofa?fname=233a93ff-783b-49ad-9ceb-61c6193d5abc.jpg&#10;\" title=\"Nicaraguamap.jpg\"><br style=\"clear:both;\">&nbsp;</p>",
+          "continent": "미주",
+          "countryEnName": "Nicaragua",
+          "countryName": "니카라과",
+          "id": "28",
+          "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_28&file_sn=1",
+          "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_28&file_sn=3",
+          "wrtDt": "2010-03-17"
+        }
+      },
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "1"
+    }
+  }
+}{
+  "response": {
+    "header": {
+      "resultCode": "00",
+      "resultMsg": "NORMAL SERVICE."
+    },
+    "body": {
+      "items": null,
+      "numOfRows": "10",
+      "pageNo": "1",
+      "totalCount": "0"
+    }
+  }
 }
