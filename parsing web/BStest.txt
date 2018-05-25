@@ -1,0 +1,14 @@
+{
+  "continent": "중동/아프리카",
+  "countryEnName": "Gambia",
+  "countryName": "감비아",
+  "id": "5",
+  "imgUrl": "http://www.0404.go.kr/imgsrc.mofa?atch_file_id=COUNTRY_5&file_sn=1",
+  "wrtDt": "2011-01-31",
+  "수도 ": " 반줄(Banjul)",
+  "인구 ": " 197만 명('15.7)",
+  "면적 ": " 11,295㎢(한반도의 1/20)",
+  "민족 ": " Mandinka, Peul, Wolof 등",
+  "종교 ": " 회교(90%), 기독교(9%) 등",
+  "언어 ": " 영어(공용어), Wolof 어&nbsp;"
+}
