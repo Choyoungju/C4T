@@ -1,0 +1,13 @@
+{
+  "continent": "중동/아프리카",
+  "countryEnName": "Namibia",
+  "countryName": "나미비아",
+  "id": "15",
+  "imgUrl": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_15&file_sn=1",
+  "imgUrl2": "http://www.0404.go.kr/dev/fileDownload.mofa?atch_file_id=COUNTRY_15&file_sn=3",
+  "wrtDt": "2011-01-28",
+  "주소 ": " Centro de Convencoes Talatona(chalet A101), Luanda-Sul, Angola",
+  "대표번호 ": "+244-222-006-067~068",
+  "긴급연락처": " +244-929-212-880",
+  "Fax ": " +244-222-006-066"
+}
