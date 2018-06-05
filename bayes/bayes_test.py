@@ -43,7 +43,7 @@ pre, scorelist = bf.predict("나 여행 가고 싶은데 추천좀 해주세요.
 print("테스트 :","나 여행 가고 싶은데 추천좀 해주세요.")
 print("결과 =", pre)
 print(scorelist)
-print()\
+print()
 
 pre, scorelist = bf.predict("파이썬 코딩 어떻게 하나요?")
 print("테스트 :","파이썬 코딩 어떻게 하나요?")
