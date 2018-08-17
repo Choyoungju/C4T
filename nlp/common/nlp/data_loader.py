@@ -81,7 +81,7 @@ class N21TextData:
         target, text = line.split('\t')
         self.add_to_data(target, text)
 
-    def load_text_file_data(self, fn):
+    def load_text_file_data(self, fn):#fn:filename
         # mode = 'file' 
         with codecs.open(fn, 'r', encoding='utf-8') as f:
             for line in f:

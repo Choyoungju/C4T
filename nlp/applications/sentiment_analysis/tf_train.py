@@ -121,8 +121,8 @@ class SentimentAnalysis():
     def get_default_hparams():
         return HParams(
             learning_rate     = 0.001,
-            keep_prob         = 0.5,
-        )
+            keep_prob         = 0.5,#dropout에 쓰임, 각 레이어 연결의 50%만사용
+    )
 
 
 

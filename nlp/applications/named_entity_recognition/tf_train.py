@@ -28,7 +28,7 @@ import tensorflow as tf
 from tensorflow.python.ops import rnn
 from tensorflow.contrib.layers.python.layers import linear
 from tensorflow.python.ops import variable_scope
-from tensorflow.contrib.seq2seq import sequence_loss
+from tensorflow.contrib.seq2seq import sequence_loss#sequence의 loss의 평균값을 구할 수있음
 
 from common.ml.tf.deploy import freeze_graph
 
@@ -157,7 +157,7 @@ class NER():
     @staticmethod
     def get_default_hparams():
         return HParams(
-            learning_rate     = 0.01,
+            learning_rate     = 0.005,
             keep_prob         = 0.5,
         )
 
@@ -166,13 +166,13 @@ def train(train_id_data, num_vocabs, num_taget_class):
     #
     # train sentiment analysis using given train_id_data
     #
-    max_epoch = 300
+    max_epoch = 800
     model_dir = "./trained_models"
     hps = NER.get_default_hparams()
     hps.update(
                     batch_size= 100,
-                    num_steps = 128,
-                    emb_size  = 50,
+                    num_steps = 85,
+                    emb_size  = 40,
                     enc_dim   = 100,
                     vocab_size=num_vocabs,
                     num_target_class=num_taget_class
@@ -227,63 +227,67 @@ def train(train_id_data, num_vocabs, num_taget_class):
     
 from tensorflow.core.framework import graph_pb2
 def predict(token_vocab, target_vocab, sent):
-    os.environ['CUDA_VISIBLE_DEVICES'] = '-1'  # force to use cpu only (prediction)
-    model_dir = "./trained_models"
+    try:
+        os.environ['CUDA_VISIBLE_DEVICES'] = '-1'  # force to use cpu only (prediction)
+        model_dir = "./trained_models"
 
-    # prepare sentence converting
-    # to make raw sentence to id data easily
-    pred_data     = N2NTextData(sent, mode='sentence')
-    pred_id_data  = N2NConverter.convert(pred_data, target_vocab, token_vocab)
-    pred_data_set = NERDataset(pred_id_data, 1, 128)
-    #
-    a_batch_data = next(pred_data_set.predict_iterator) # a result
-    b_nes_id, b_token_ids, b_weight = a_batch_data
-
-    # Restore graph
-    # note that frozen_graph.tf.pb contains graph definition with parameter values in binary format
-    _graph_fn =  os.path.join(model_dir, 'frozen_graph.tf.pb')
-    with tf.gfile.GFile(_graph_fn, "rb") as f:
-        graph_def = tf.GraphDef()
-        graph_def.ParseFromString(f.read())
+        # prepare sentence converting
+        # to make raw sentence to id data easily
+        pred_data     = N2NTextData(sent, mode='sentence')
+        pred_id_data  = N2NConverter.convert(pred_data, target_vocab, token_vocab)
+        pred_data_set = NERDataset(pred_id_data, 1, 85)
+        #
+        a_batch_data = next(pred_data_set.predict_iterator) # a result
+        b_nes_id, b_token_ids, b_weight = a_batch_data
     
-    with tf.Graph().as_default() as graph:
-        tf.import_graph_def(graph_def)
 
-    with tf.Session(graph=graph) as sess:
-        # to check load graph
-        #for n in tf.get_default_graph().as_graph_def().node: print(n.name)
+        # Restore graph
+        # note that frozen_graph.tf.pb contains graph definition with parameter values in binary format
+        _graph_fn =  os.path.join(model_dir, 'frozen_graph.tf.pb')
+        with tf.gfile.GFile(_graph_fn, "rb") as f:
+            graph_def = tf.GraphDef()
+            graph_def.ParseFromString(f.read())
+    
+        with tf.Graph().as_default() as graph:
+            tf.import_graph_def(graph_def)
 
-        # make interface for input
-        pl_token     = graph.get_tensor_by_name('import/model/pl_tokens:0')
-        pl_weight    = graph.get_tensor_by_name('import/model/pl_weight:0')
-        pl_keep_prob = graph.get_tensor_by_name('import/model/pl_keep_prob:0')
+        with tf.Session(graph=graph) as sess:
+            # to check load graph
+            #for n in tf.get_default_graph().as_graph_def().node: print(n.name)
 
-        # make interface for output
-        step_out_preds = graph.get_tensor_by_name('import/model/step_out_preds:0')
-        step_out_probs = graph.get_tensor_by_name('import/model/step_out_probs:0')
+            # make interface for input
+            pl_token     = graph.get_tensor_by_name('import/model/pl_tokens:0')
+            pl_weight    = graph.get_tensor_by_name('import/model/pl_weight:0')
+            pl_keep_prob = graph.get_tensor_by_name('import/model/pl_keep_prob:0')
+    
+            # make interface for output
+            step_out_preds = graph.get_tensor_by_name('import/model/step_out_preds:0')
+            step_out_probs = graph.get_tensor_by_name('import/model/step_out_probs:0')
         
 
-        # predict sentence 
-        b_best_step_pred_indexs, b_step_pred_probs = sess.run([step_out_preds, step_out_probs], 
-                                                              feed_dict={
-                                                                            pl_token  : b_token_ids,
-                                                                            pl_weight : b_weight,
-                                                                            pl_keep_prob : 1.0,
-                                                                        }
-                                                             )
-        best_step_pred_indexs = b_best_step_pred_indexs[0]
-        step_pred_probs = b_step_pred_probs[0]
+            # predict sentence 
+            b_best_step_pred_indexs, b_step_pred_probs = sess.run([step_out_preds, step_out_probs], 
+                                                                  feed_dict={
+                                                                                pl_token  : b_token_ids,
+                                                                                pl_weight : b_weight,
+                                                                                pl_keep_prob : 1.0,
+                                                                            }
+                                                                 )
+            best_step_pred_indexs = b_best_step_pred_indexs[0]
+            step_pred_probs = b_step_pred_probs[0]
 
-        step_best_targets = []
-        step_best_target_probs = []
-        for time_step, best_pred_index in enumerate(best_step_pred_indexs):
-            _target_class = target_vocab.get_symbol(best_pred_index)
-            step_best_targets.append( _target_class )
-            _prob = step_pred_probs[time_step][best_pred_index]
-            step_best_target_probs.append( _prob ) 
-
-        for idx, char in enumerate(list(sent)):
-            print('{}\t{}\t{}'.format(char, step_best_targets[idx], step_best_target_probs[idx]) ) 
+            step_best_targets = []
+            step_best_target_probs = []
+            for time_step, best_pred_index in enumerate(best_step_pred_indexs):
+                _target_class = target_vocab.get_symbol(best_pred_index)
+                step_best_targets.append( _target_class )
+                _prob = step_pred_probs[time_step][best_pred_index]
+                step_best_target_probs.append( _prob ) 
+            return sent, step_best_targets
+    except StopIteration:
+        print("ERROR")
+        return '최대 입력 길이를 초과했습니다!',[]
+    
 
 
 
@@ -292,8 +296,7 @@ if __name__ == '__main__':
     num_vocabs       = token_vocab.get_num_tokens()
     num_target_class = target_vocab.get_num_targets()
 
-    train_data_set = NERDataset(train_id_data, 5, 128)
+    train_data_set = NERDataset(train_id_data, 5, 85)
     train(train_id_data, num_vocabs, num_target_class)
     
-    predict(token_vocab, target_vocab, '의정지기단은 첫 사업으로 45 명 시의원들의 선거 공약을 수집해 개인별로 카드를 만들었다.')
-    predict(token_vocab, target_vocab, '한국소비자보호원은 19일 시판중인 선물세트의 상당수가 과대 포장된 것으로 드러났다고 밝혔다.')
+    #predict(token_vocab, target_vocab, '아프가니스탄의 장래를 더욱 불투명하게 하는 것은 강경파 헤즈비 이슬라미와 우즈베크 민병대의 대립이다.')

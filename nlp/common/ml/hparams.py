@@ -7,7 +7,7 @@ class HParams(object):
 
     def _set(self, k, v):
         self._items[k] = v
-        setattr(self, k, v)
+        setattr(self, k, v)#self.k = vhttp://localhost:8888/edit/pythonNlp/course/nlp/applications/sentiment_analysis/tf_train.py
 
     def parse(self, str_value):
         hps = HParams(**self._items)

@@ -23,8 +23,7 @@ from dataset import SentimentDataset
 from dataset import load_data
 from common.ml.hparams import HParams
 
-import numpy as np
-import copy 
+import copy
 import time 
 import tensorflow as tf
 from tensorflow.python.ops import rnn
@@ -37,7 +36,7 @@ print( "Tensorflow Version : ", tf.__version__)
 class SentimentAnalysis():
     def __init__(self, hps, mode="train"):
         self.hps = hps
-        self.x = tf.placeholder(tf.int32,   [None, hps.num_steps], name="pl_tokens")
+        self.x = tf.placeholder(tf.int32,   [None, hps.num_steps], name="pl_tokens")#None: batch_size를 모르기 때문에 알아서 하도록 함
         self.y = tf.placeholder(tf.int32,   [None], name="pl_target")
         self.w = tf.placeholder(tf.float32, [None, hps.num_steps], name="pl_weight")
         self.keep_prob = tf.placeholder(tf.float32, [], name="pl_keep_prob")
@@ -281,10 +280,10 @@ def predict(token_vocab, target_vocab, sent):
 
 
 if __name__ == '__main__':
-    train_id_data, token_vocab, target_vocab = load_data()
-    num_vocabs       = token_vocab.get_num_tokens()
-    num_target_class = target_vocab.get_num_targets()
+    train_id_data, token_vocab, target_vocab = load_data()#데이터 로드
+    num_vocabs       = token_vocab.get_num_tokens()#vocab로드
+    num_target_class = target_vocab.get_num_targets()#타겟(카테고리) 로드
 
 
-    train(train_id_data, num_vocabs, num_target_class)
-    predict(token_vocab, target_vocab, '유일한 단점은 방안에 있어도 들리는 소음인데요.')
+    train(train_id_data, num_vocabs, num_target_class)#학습
+    predict(token_vocab, target_vocab, '유일한 단점은 방안에 있어도 들리는 소음인데요.')#예측
