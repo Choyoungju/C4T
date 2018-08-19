@@ -1,0 +1,13 @@
+O	0
+I-AC	1
+I-DT	2
+I-LC	3
+I-PR	4
+I-PU	5
+I-WT	6
+B-AC	7
+B-DT	8
+B-LC	9
+B-PR	10
+B-PU	11
+B-WT	12
