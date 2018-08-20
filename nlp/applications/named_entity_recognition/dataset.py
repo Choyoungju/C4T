@@ -78,7 +78,6 @@ def load_data():
     # load train data 
     train_data_fn  = os.path.join( os.path.dirname(__file__), 'data', 'trip.n2n.txt')
     train_txt_data = N2NTextData(train_data_fn)
-    print(train_txt_data)
     # convert text data to id data
     train_id_data  = N2NConverter.convert(train_txt_data, target_vocab, token_vocab)
     

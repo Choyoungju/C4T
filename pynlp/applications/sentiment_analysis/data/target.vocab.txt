@@ -1,4 +1,0 @@
-POS	0
-OBJ	1
-NEG	2
-NEU	3
