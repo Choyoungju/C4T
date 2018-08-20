@@ -1,4 +1,5 @@
-model_checkpoint_path: "model.ckpt-4590"
+model_checkpoint_path: "model.ckpt-7749"
 all_model_checkpoint_paths: "model.ckpt-0"
-all_model_checkpoint_paths: "model.ckpt-2086"
-all_model_checkpoint_paths: "model.ckpt-4590"
+all_model_checkpoint_paths: "model.ckpt-2721"
+all_model_checkpoint_paths: "model.ckpt-5250"
+all_model_checkpoint_paths: "model.ckpt-7749"
