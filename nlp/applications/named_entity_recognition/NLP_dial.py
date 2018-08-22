@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[1]:
-
-
 from ner_model import predict
 from dataset import load_data
 import konlpy
@@ -14,15 +8,9 @@ from collections import defaultdict
 import pandas as pd
 import csv
 
-
-# In[5]:
-
-
 class Tag_Mapper():
-    def __init__(self,token_vocab,target_vocab,sent):
+    def __init__(self,sent):
         self.sent = sent
-        self.token_vocab = token_vocab
-        self.target_vocab = target_vocab
         
         def AC_mapping(ac_list):
             new_ac_list = []
@@ -109,7 +97,7 @@ class Tag_Mapper():
                         lc_list.append(key)
             return lc_list
         
-         def PU_mapping(pu_list):
+        def PU_mapping(pu_list):
             return pu_list
 
         def tag_mapping(tag_dict):
@@ -137,20 +125,15 @@ class Tag_Mapper():
                     word=''
             mapped_dict = tag_mapping(tag_dict)
             return mapped_dict
-
-        sent, targets = predict(self.token_vocab, self.target_vocab,self.sent)
+        train_id_data, token_vocab, target_vocab = load_data()
+        sent, targets = predict(token_vocab, target_vocab,self.sent)
         self.mapped_dict = sent_tag_dict(sent,targets)
         
     def get_dict(self):
         return self.mapped_dict
 
 
-# In[8]:
-
-
 if __name__ == '__main__':
-    train_id_data, token_vocab, target_vocab = load_data()
-    mapp = Tag_Mapper(token_vocab,target_vocab,'3박4일 엄마랑 보라카이로 따뜻한 곳으로 8월에 휴가갈거야')
+    mapp = Tag_Mapper('3박4일 엄마랑 보라카이로 따뜻한 곳으로 8월에 휴가갈거야')
     print(dict(mapp.get_dict()))
-    
-
+ 
