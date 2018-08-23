@@ -23,6 +23,7 @@ class Tag_Mapper():
 
         def PR_mapping(pr_list):
             period = 0
+            pr_list = ['단기','중기','장기']
             period_str = ''
             for pr in pr_list:
                 if '박' in pr:
@@ -43,15 +44,20 @@ class Tag_Mapper():
                         period = max(period,30*(int(pr1[1][:-1])-int(pr1[0][:-1]))-int(pr2[0][:-1])+int(pr2[1][:-1]))
                     elif len(pr2) == 2:
                         period = max(period,int(pr2[1][:-1])-int(pr2[0][:-1])+1)
+                    elif '주일' in pr:
+                        if pr[0] in ['일','1']:
+                            period = 7
+                        else:
+                            period = 15
                 elif '년' in pr and '월' not in pr:
                     period = 365
 
             if 0 < period <= 7:
-                period_str = '단기'
+                period_str = pr_list[0]
             elif 7 < period <=30:
-                period_str = '중기'
-            else:
-                period_str = '장기'
+                period_str = pr_list[1]
+            elif 30< period:
+                period_str = pr_list[2]
 
             return period_str
 
