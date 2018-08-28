@@ -3,10 +3,10 @@
 ~	I-DT
 8	I-DT
 월	I-DT
- 	O
+?	O
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
  	O
 휴	O
 가	O
@@ -425,8 +425,8 @@
  	O
 겨	B-DT
 울	I-DT
-방	I-DT
-학	I-DT
+방	O
+학	O
  	O
 때	O
  	O
@@ -481,7 +481,7 @@
 서	O
 요	O
 .	O
- 	O
+?	O
 괌	B-LC
  	O
 말	O
@@ -628,11 +628,10 @@
 밤	O
 에	O
  	O
-감	B-PU
-성	I-PU
-팔	I-PU
-이	I-PU
- 	O
+감	O
+성	O
+팔	O
+이	O
 하	O
 고	O
 싶	O
@@ -830,8 +829,8 @@
 요	O
 .	O
 --------------------------------------------------
-여	O
-름	O
+여	B-DT
+름	I-DT
  	O
 휴	O
 가	O
@@ -874,7 +873,7 @@
 데	O
 요	O
 .	O
- 	O
+--------------------------------------------------
 친	B-AC
 언	I-AC
 니	I-AC
@@ -1096,9 +1095,8 @@
  	O
 2	B-PR
 주	I-PR
- 	I-PR
-정	I-PR
-도	I-PR
+정	O
+도	O
  	O
 생	O
 각	O
@@ -1165,8 +1163,8 @@
  	O
 여	B-DT
 름	I-DT
-휴	I-DT
-가	I-DT
+휴	O
+가	O
  	O
 같	O
 이	O
@@ -1433,8 +1431,8 @@
  	O
 여	B-DT
 름	I-DT
-휴	I-DT
-가	I-DT
+휴	O
+가	O
  	O
 같	O
 이	O
@@ -1686,10 +1684,8 @@
 세	O
 요	O
 --------------------------------------------------
-6	B-PR
-박	I-PR
- 	I-PR
-8	I-PR
+일	B-PR
+주	I-PR
 일	I-PR
 동	O
 안	O
@@ -2168,6 +2164,7 @@
 까	O
 요	O
 ?	O
+ 	O
 동	B-LC
 남	I-LC
 아	I-LC
@@ -2178,12 +2175,13 @@
 으	O
 로	O
 요	O
-날	B-PU
-씨	I-PU
+ 	O
+날	O
+씨	O
 나	O
  	O
-물	B-PU
-가	I-PU
+물	O
+가	O
  	O
 괜	O
 찮	O
@@ -2292,8 +2290,8 @@
 요	O
 ?	O
  	O
-치	B-PU
-안	I-PU
+치	O
+안	O
 잘	O
 되	O
 있	O
@@ -2313,9 +2311,7 @@
 해	O
 --------------------------------------------------
 3	B-PR
-박	I-PR
-4	I-PR
-일	I-PR
+주	I-PR
  	O
 3	B-DT
 월	I-DT
@@ -2875,8 +2871,9 @@ C	O
 는	O
 데	O
 요	O
-여	O
-름	O
+ 	O
+여	B-DT
+름	I-DT
  	O
 7	B-DT
 -	I-DT
@@ -3131,8 +3128,8 @@ C	O
 2	O
 .	O
  	O
-겨	O
-울	O
+겨	B-DT
+울	I-DT
 에	O
  	O
 아	O
@@ -3539,6 +3536,7 @@ C	O
 가	O
 려	O
 고	O
+ 	O
 하	O
 는	O
 데	O
@@ -3627,6 +3625,7 @@ C	O
 가	O
 려	O
 고	O
+ 	O
 하	O
 는	O
 데	O
@@ -3657,6 +3656,7 @@ C	O
 니	O
 다	O
 .	O
+ 	O
 기	O
 간	O
 은	O
@@ -3815,6 +3815,7 @@ C	O
  	O
 여	B-AC
 자	I-AC
+ 	I-AC
 혼	I-AC
 자	I-AC
  	O
@@ -3841,16 +3842,6 @@ C	O
  	O
 방	B-LC
 콕	I-LC
-이	O
-랑	O
- 	O
-<	O
-보	O
-홀	O
-:	O
-L	O
-C	O
- 	O
 생	O
 각	O
 하	O
@@ -3858,11 +3849,13 @@ C	O
 있	O
 는	O
 데	O
+ 	O
 어	O
 디	O
 가	O
  	O
 더	O
+ 	O
 좋	O
 을	O
 까	O
@@ -3877,6 +3870,7 @@ C	O
  	O
 제	O
 대	O
+ 	O
 후	O
  	O
 첫	O
@@ -3896,6 +3890,7 @@ C	O
  	O
 제	O
 대	O
+ 	O
 후	O
 라	O
  	O
@@ -3910,6 +3905,7 @@ C	O
 여	O
 행	O
 을	O
+ 	O
 원	O
 하	O
 구	O
@@ -3919,6 +3915,7 @@ C	O
 9	B-DT
 월	I-DT
 에	O
+ 	O
 갈	O
 거	O
 라	O
@@ -3930,6 +3927,7 @@ C	O
 한	I-WT
 나	O
 라	O
+ 	O
 가	O
 고	O
 싶	O
@@ -3961,8 +3959,8 @@ C	O
 데	O
 .	O
  	O
-날	B-PU
-씨	I-PU
+날	O
+씨	O
 좋	O
 고	O
  	O
@@ -4122,7 +4120,7 @@ C	O
 하	O
 는	O
 데	O
- 	O
+?	O
  	O
 아	O
 무	O
@@ -4153,6 +4151,7 @@ C	O
 니	O
 다	O
 .	O
+?	O
 --------------------------------------------------
 저	O
 도	O
@@ -4189,7 +4188,7 @@ C	O
 요	O
 .	O
 )	O
- 	O
+?	O
 추	O
 천	O
 받	O
@@ -4222,6 +4221,7 @@ C	O
 을	O
 까	O
 요	O
+?	O
 ?	O
 --------------------------------------------------
 7	B-DT
@@ -4489,7 +4489,7 @@ C	O
 무	O
  	O
 휴	B-PU
-향	I-PU
+양	I-PU
 하	O
 는	O
 건	O
@@ -4653,7 +4653,7 @@ C	O
 월	I-DT
 초	I-DT
 에	O
- 	O
+?	O
  	O
 자	O
 유	O
@@ -4830,7 +4830,7 @@ C	O
 ~	I-PR
 5	I-PR
 일	I-PR
- 	O
+?	O
 정	O
 도	O
 로	O
@@ -5032,6 +5032,7 @@ C	O
 에	O
  	O
 갈	O
+ 	O
 예	O
 정	O
 인	O
@@ -5053,7 +5054,9 @@ C	O
  	O
 추	O
 천	O
+ 	O
 안	O
+ 	O
 받	O
 습	O
 니	O
@@ -5709,7 +5712,7 @@ o	O
 월	I-DT
 초	I-DT
 에	O
- 	O
+?	O
  	O
 자	O
 유	O
@@ -5828,7 +5831,7 @@ r	O
 편	I-AC
 이	O
 랑	O
- 	O
+?	O
 갈	O
 꺼	O
 구	O
@@ -5906,10 +5909,10 @@ r	O
 혼	I-AC
 자	I-AC
  	O
-2	B-PR
-박	I-PR
-3	I-PR
-일	I-PR
+4	B-PR
+주	I-PR
+정	O
+도	O
  	O
 해	O
 외	O
@@ -6001,8 +6004,8 @@ r	O
 4	I-PR
 일	I-PR
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
 휴	O
 가	O
 로	O
@@ -6102,7 +6105,7 @@ r	O
 월	I-DT
 이	O
 나	O
- 	O
+?	O
 1	B-DT
 0	I-DT
 월	I-DT
@@ -6182,6 +6185,7 @@ r	O
 하	O
 는	O
 데	O
+ 	O
 엄	O
 마	O
 가	O
@@ -6216,6 +6220,7 @@ r	O
  	O
 종	O
 강	O
+ 	O
 후	O
  	O
 부	O
@@ -7035,8 +7040,8 @@ T	O
 애	B-AC
 들	I-AC
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
 방	O
 학	O
 이	O
@@ -7180,7 +7185,7 @@ T	O
 님	O
 들	O
 의	O
- 	O
+?	O
 자	O
 세	O
 한	O
@@ -7243,7 +7248,7 @@ T	O
 하	O
 는	O
 데	O
- 	O
+?	O
 생	O
 신	O
 선	O
@@ -7256,7 +7261,7 @@ T	O
 가	O
 려	O
 고	O
- 	O
+?	O
 합	O
 니	O
 다	O
@@ -7863,7 +7868,7 @@ T	O
 정	I-PR
 도	I-PR
 로	O
- 	O
+?	O
 가	B-AC
 족	I-AC
  	O
@@ -8030,7 +8035,7 @@ T	O
 을	O
 때	O
  	O
- 	O
+?	O
 일	B-LC
 본	I-LC
 쪽	O
@@ -8141,7 +8146,7 @@ T	O
 나	I-LC
 와	I-LC
 나	O
- 	O
+?	O
  	O
 오	B-LC
 사	I-LC
@@ -8446,11 +8451,12 @@ T	O
 구	O
 요	O
 .	O
+?	O
 --------------------------------------------------
 올	O
  	O
-가	O
-을	O
+겨	B-DT
+울	I-DT
 (	O
 1	B-DT
 월	I-DT
@@ -9141,10 +9147,10 @@ R	O
 자	I-AC
 혼	I-AC
 자	I-AC
- 	O
+?	O
 여	O
 행	O
- 	O
+?	O
 가	O
 려	O
 고	O
@@ -9380,6 +9386,23 @@ R	O
 이	O
 구	O
 요	O
+.	O
+ 	O
+한	B-PR
+ 	I-PR
+달	I-PR
+ 	O
+정	O
+도	O
+ 	O
+예	O
+상	O
+하	O
+고	O
+ 	O
+있	O
+어	O
+요	O
 --------------------------------------------------
 일	B-LC
 본	I-LC
@@ -9421,8 +9444,20 @@ R	O
 있	O
 을	O
 지	O
+?	O
+ 	O
+3	O
+주	O
+ 	O
+정	O
+도	O
+ 	O
+예	O
+상	O
+해	O
+요	O
 --------------------------------------------------
-6	B-DT
+8	B-DT
 월	I-DT
  	O
 초	O
@@ -9436,27 +9471,42 @@ R	O
 니	O
 다	O
 .	O
+ 	O
+이	B-PR
+ 	I-PR
+주	I-PR
+동	O
+안	O
+ 	O
+가	O
+려	O
+구	O
+요	O
+.	O
 --------------------------------------------------
 홍	B-LC
 콩	I-LC
-(	O
-다	O
-녀	O
-온	O
  	O
-친	O
+2	B-PR
+ 	I-PR
+달	I-PR
+ 	O
+정	O
+도	O
+ 	O
+예	O
+상	O
+하	O
 구	O
-의	O
  	O
-추	O
-천	O
-)	O
+있	O
+구	O
 --------------------------------------------------
 6	B-DT
 월	I-DT
  	O
-나	B-PR
-흘	I-PR
+3	B-PR
+주	I-PR
  	O
 예	O
 정	O
@@ -9541,7 +9591,7 @@ R	O
 월	I-DT
 )	O
 에	O
- 	O
+?	O
 7	B-PR
 박	I-PR
  	I-PR
@@ -9549,7 +9599,7 @@ R	O
 일	I-PR
 정	O
 도	O
- 	O
+?	O
 다	O
 녀	O
 오	O
@@ -9611,7 +9661,7 @@ R	O
 헨	I-LC
 티	I-LC
 나	I-LC
- 	O
+?	O
 등	O
 )	O
 으	O
@@ -9664,11 +9714,11 @@ R	O
 세	O
 요	O
 --------------------------------------------------
-3	B-PR
-박	I-PR
-4	I-PR
+2	B-PR
+주	I-PR
 일	I-PR
-로	O
+동	O
+안	O
  	O
 해	O
 외	O
@@ -9924,9 +9974,9 @@ R	O
 --------------------------------------------------
 볼	B-PU
 거	I-PU
- 	I-PU
-많	I-PU
-은	I-PU
+ 	O
+많	O
+은	O
  	O
 나	O
 라	O
@@ -10561,10 +10611,11 @@ R	O
 구	B-PU
 경	I-PU
  	O
-맛	B-PU
-있	I-PU
-는	I-PU
-음	I-PU
+맛	O
+있	O
+는	O
+ 	O
+음	B-PU
 식	I-PU
  	O
 먹	O
@@ -10722,8 +10773,8 @@ R	O
 주	O
 로	O
  	O
-사	B-LC
-진	I-LC
+사	B-PU
+진	I-PU
 ,	O
  	O
 맛	B-PU
@@ -10880,13 +10931,13 @@ R	O
 요	O
 .	O
 --------------------------------------------------
-아	B-PU
-기	I-PU
-자	I-PU
-기	I-PU
-한	I-PU
- 	I-PU
-마	I-PU
+아	O
+기	O
+자	O
+기	O
+한	O
+ 	O
+마	B-PU
 을	I-PU
 이	O
  	O
@@ -10894,10 +10945,10 @@ R	O
 거	O
 나	O
  	O
-예	B-PU
-쁜	I-PU
- 	I-PU
-풍	I-PU
+예	O
+쁜	O
+ 	O
+풍	B-PU
 경	I-PU
 이	O
  	O
@@ -10927,16 +10978,32 @@ R	O
 습	O
 니	O
 다	O
+.	O
+ 	O
+3	B-PR
+주	I-PR
+정	O
+도	O
+면	O
+ 	O
+충	O
+분	O
+ 	O
+하	O
+겠	O
+죠	O
+?	O
 --------------------------------------------------
 이	O
 번	O
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
  	O
 방	O
 학	O
 이	O
+ 	O
 시	O
 작	O
 되	O
@@ -10970,7 +11037,7 @@ R	O
 --------------------------------------------------
 여	B-DT
 름	I-DT
-철	I-DT
+철	O
 에	O
  	O
 좋	O
@@ -10991,6 +11058,15 @@ R	O
 요	O
 !	O
 !	O
+2	B-PR
+주	I-PR
+정	O
+도	O
+ 	O
+갑	O
+니	O
+다	O
+!	O
 --------------------------------------------------
 이	O
 번	O
@@ -10998,7 +11074,9 @@ R	O
  	O
 친	B-AC
 구	I-AC
+ 	I-AC
 두	I-AC
+ 	I-AC
 명	I-AC
 이	O
 랑	O
@@ -11020,6 +11098,7 @@ R	O
 안	O
 해	O
 도	O
+ 	O
 되	O
 고	O
  	O
@@ -11035,6 +11114,7 @@ R	O
  	O
 섞	O
 인	O
+ 	O
 곳	O
  	O
 추	O
@@ -11060,7 +11140,9 @@ R	O
 이	O
 드	O
 는	O
+ 	O
 곳	O
+ 	O
 빼	O
 고	O
 요	O
@@ -11180,10 +11262,10 @@ R	O
 힐	B-PU
 링	I-PU
 .	O
-생	B-PU
-각	I-PU
-정	I-PU
-리	I-PU
+생	O
+각	O
+정	O
+리	O
 등	O
 등	O
  	O
@@ -11573,7 +11655,7 @@ R	O
  	O
 활	B-PU
 동	I-PU
-적	I-PU
+적	O
 이	O
 에	O
 요	O
@@ -11920,14 +12002,11 @@ R	O
 니	O
 다	O
 --------------------------------------------------
-짧	B-PR
-은	I-PR
- 	I-PR
-기	I-PR
-간	I-PR
-안	O
-에	O
+3	B-PR
+일	I-PR
  	O
+정	O
+도	O
 따	B-WT
 뜻	I-WT
 한	I-WT
@@ -11953,7 +12032,9 @@ R	O
  	O
 친	B-AC
 구	I-AC
+ 	I-AC
 한	I-AC
+ 	I-AC
 명	I-AC
 과	O
  	O
@@ -12032,6 +12113,7 @@ R	O
  	O
 가	O
 기	O
+ 	O
 좋	O
 은	O
  	O
@@ -12067,6 +12149,7 @@ R	O
  	O
 계	O
 획	O
+ 	O
 중	O
 인	O
 데	O
@@ -12107,7 +12190,7 @@ R	O
 돈	O
 이	O
  	O
-딸	B-AC
+딸	O
 려	O
 서	O
  	O
@@ -12378,8 +12461,7 @@ R	O
 맛	B-PU
 있	I-PU
 는	I-PU
-게	I-PU
- 	I-PU
+게	O
 많	O
 았	O
 으	O
@@ -12411,8 +12493,8 @@ R	O
 지	O
 는	O
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
 에	O
  	O
 가	B-AC
@@ -12446,10 +12528,10 @@ R	O
  	O
 여	B-DT
 름	I-DT
- 	I-DT
-휴	I-DT
-가	I-DT
-때	I-DT
+ 	O
+휴	O
+가	O
+때	O
  	O
 엄	B-AC
 마	I-AC
@@ -12799,6 +12881,7 @@ R	O
  	O
 계	O
 획	O
+ 	O
 중	O
 입	O
 니	O
@@ -13438,9 +13521,10 @@ R	O
 --------------------------------------------------
 여	B-DT
 름	I-DT
- 	I-DT
-휴	I-DT
-가	I-DT
+ 	O
+휴	O
+가	O
+ 	O
 때	O
  	O
 동	B-AC
@@ -13550,7 +13634,7 @@ R	O
 하	O
 는	O
 데	O
- 	O
+?	O
 휴	B-PU
 양	I-PU
 지	O
@@ -13647,6 +13731,7 @@ R	O
 니	O
 다	O
 .	O
+?	O
 --------------------------------------------------
 4	B-DT
 월	I-DT
@@ -13767,7 +13852,7 @@ R	O
  	O
 음	B-PU
 식	I-PU
-들	I-PU
+들	O
 ,	O
  	O
 물	B-PU
@@ -14081,15 +14166,6 @@ R	O
 인	O
 데	O
 --------------------------------------------------
-봄	B-DT
-,	O
-여	B-DT
-름	I-DT
-가	B-DT
-을	I-DT
-겨	B-DT
-울	I-DT
---------------------------------------------------
 3	B-DT
 월	I-DT
  	O
@@ -14165,10 +14241,8 @@ R	O
 요	O
 ?	O
 --------------------------------------------------
-3	B-PR
-~	I-PR
-5	I-PR
-일	I-PR
+4	B-PR
+주	I-PR
 정	O
 도	O
  	O
@@ -14288,11 +14362,11 @@ R	O
 리	I-PU
 나	O
  	O
-맛	B-PU
-있	I-PU
-는	I-PU
- 	I-PU
-음	I-PU
+맛	O
+있	O
+는	O
+ 	O
+음	B-PU
 식	I-PU
 이	O
  	O
@@ -14682,8 +14756,8 @@ R	O
 올	O
 해	O
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
 휴	O
 가	O
 를	O
@@ -15348,7 +15422,7 @@ R	O
 0	I-PR
 일	I-PR
 간	O
- 	O
+?	O
 아	B-AC
 빠	I-AC
 랑	O
@@ -15357,7 +15431,7 @@ R	O
 외	O
 여	O
 행	O
- 	O
+?	O
 가	O
 려	O
 고	O
@@ -16208,8 +16282,8 @@ U	O
 올	O
 해	O
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
 휴	O
 가	O
 를	O
@@ -16331,9 +16405,8 @@ U	O
 니	O
 다	O
 --------------------------------------------------
-2	B-PR
-박	I-PR
-3	I-PR
+1	B-PR
+4	I-PR
 일	I-PR
  	O
 일	O
@@ -17708,6 +17781,7 @@ U	O
 갑	O
 니	O
 다	O
+?	O
 --------------------------------------------------
 부	B-AC
 모	I-AC
@@ -17791,42 +17865,6 @@ U	O
 니	O
 다	O
 .	O
---------------------------------------------------
-이	O
-번	O
-에	O
- 	O
-휴	O
-가	O
-를	O
- 	O
-하	B-PR
-루	I-PR
-정	O
-도	O
- 	O
-써	O
-서	O
- 	O
-주	O
-말	O
-에	O
- 	O
-해	O
-외	O
-여	O
-행	O
-을	O
- 	O
-다	O
-녀	O
-오	O
-려	O
-고	O
- 	O
-합	O
-니	O
-다	O
 --------------------------------------------------
 6	B-PR
 월	I-PR
@@ -17959,6 +17997,7 @@ U	O
 하	O
 는	O
 데	O
+ 	O
 인	O
 터	O
 넷	O
@@ -18591,7 +18630,7 @@ U	O
 맛	B-PU
 있	I-PU
 는	I-PU
-거	I-PU
+거	O
 많	O
 고	O
  	O
@@ -19601,11 +19640,11 @@ U	O
 다	O
 .	O
 --------------------------------------------------
-다	B-PR
-음	I-PR
-주	I-PR
- 	I-PR
-1	I-PR
+다	O
+음	O
+주	O
+ 	O
+1	B-PR
 9	I-PR
 일	I-PR
 부	I-PR
@@ -20258,8 +20297,9 @@ U	O
  	O
 좀	O
  	O
-여	B-PU
-유	I-PU
+여	O
+유	O
+:	O
 롭	O
 게	O
  	O
@@ -20462,10 +20502,8 @@ U	O
 는	O
 대	O
  	O
-4	B-PR
-박	I-PR
-5	I-PR
-일	I-PR
+1	B-PR
+주	I-PR
 로	O
  	O
 다	O
@@ -20683,7 +20721,7 @@ U	O
 말	I-DT
 쯤	O
  	O
-봄	O
+봄	B-DT
 방	O
 학	O
 때	O
@@ -21132,8 +21170,8 @@ U	O
 이	O
 번	O
  	O
-겨	O
-울	O
+겨	B-DT
+울	I-DT
 방	O
 학	O
 에	O
@@ -23089,8 +23127,8 @@ U	O
 월	I-DT
 쯤	O
  	O
-겨	O
-울	O
+겨	B-DT
+울	I-DT
 방	O
 학	O
 에	O
@@ -23650,8 +23688,8 @@ U	O
 히	O
 려	O
  	O
-한	B-PU
-적	I-PU
+한	O
+적	O
 한	O
  	O
 곳	O
@@ -24733,8 +24771,8 @@ U	O
 혼	B-AC
 자	I-AC
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
  	O
 휴	O
 가	O
@@ -25255,8 +25293,8 @@ U	O
 이	O
 서	O
  	O
-겨	O
-울	O
+겨	B-DT
+울	I-DT
 방	O
 학	O
 동	O
@@ -26362,8 +26400,8 @@ U	O
 내	O
 년	O
  	O
-여	O
-름	O
+여	B-DT
+름	I-DT
 에	O
  	O
 동	B-AC
@@ -27925,11 +27963,11 @@ r	O
 고	O
 ,	O
  	O
-생	B-PU
-각	I-PU
- 	I-PU
-정	I-PU
-리	I-PU
+생	O
+각	O
+ 	O
+정	O
+리	O
 도	O
  	O
 할	O
@@ -28444,7 +28482,7 @@ s	O
 맛	B-PU
 있	I-PU
 는	I-PU
-거	I-PU
+거	O
 먹	O
 고	O
  	O
@@ -28864,7 +28902,7 @@ s	O
 맛	B-PU
 있	I-PU
 는	I-PU
-거	I-PU
+거	O
  	O
 먹	O
 는	O
@@ -30063,8 +30101,8 @@ s	O
 이	O
 번	O
  	O
-겨	O
-울	O
+겨	B-DT
+울	I-DT
  	O
 1	B-DT
 월	I-DT
@@ -30916,8 +30954,8 @@ s	O
 다	O
 .	O
 --------------------------------------------------
-조	B-PU
-용	I-PU
+조	O
+용	O
 하	O
 고	O
  	O
@@ -32016,8 +32054,8 @@ s	O
 월	I-DT
 쯤	O
  	O
-겨	O
-울	O
+겨	B-DT
+울	I-DT
 방	O
 학	O
 에	O
@@ -35245,8 +35283,8 @@ T	O
 요	O
 .	O
  	O
-안	B-PU
-전	I-PU
+안	O
+전	O
 한	O
  	O
 나	O
@@ -35570,7 +35608,7 @@ T	O
 다	O
 보	O
 니	O
- 	O
+?	O
 휴	B-PU
 양	I-PU
 ,	O
@@ -35747,631 +35785,704 @@ T	O
 다	O
 .	O
 --------------------------------------------------
-인	B-LC
-도	I-LC
-,	O
-이	B-LC
-집	I-LC
-트	I-LC
-,	O
-팔	B-LC
-라	I-LC
-우	I-LC
-,	O
-터	B-LC
-키	I-LC
-,	O
-싱	B-LC
-가	I-LC
-포	I-LC
-르	I-LC
-,	O
-노	B-LC
-르	I-LC
-웨	I-LC
-이	I-LC
-,	O
-일	B-LC
-본	I-LC
-,	O
-마	B-LC
-카	I-LC
-오	I-LC
+이	O
+번	O
+ 	O
+가	B-DT
+을	I-DT
+에	O
+ 	O
+한	B-PR
+달	I-PR
+정	O
+도	O
+ 	O
+여	O
+행	O
+가	O
+려	O
+고	O
+ 	O
+합	O
+니	O
+다	O
+.	O
+ 	O
+맛	B-PU
+있	I-PU
+는	I-PU
+게	I-PU
+ 	O
+많	O
+았	O
+으	O
+면	O
+ 	O
+좋	O
+겠	O
+습	O
+니	O
+다	O
+.	O
 --------------------------------------------------
-캐	B-LC
-나	I-LC
-다	I-LC
-,	O
-브	B-LC
-라	I-LC
-질	I-LC
-,	O
-러	B-LC
+두	B-PR
+ 	I-PR
+달	I-PR
+정	O
+도	O
+ 	O
+여	O
+행	O
+가	O
+고	O
+ 	O
+싶	O
+습	O
+니	O
+다	O
+.	O
+ 	O
+가	B-AC
+족	I-AC
+여	O
+행	O
+이	O
+고	O
+ 	O
+쉬	B-PU
+다	I-PU
+ 	O
+오	O
+고	O
+ 	O
+싶	O
+습	O
+니	O
+다	O
+.	O
+--------------------------------------------------
+세	B-PR
+달	I-PR
+정	O
+도	O
+ 	O
+유	B-LC
+럽	I-LC
+여	O
+행	O
+을	O
+ 	O
+다	O
+녀	O
+오	O
+려	O
+고	O
+ 	O
+합	O
+니	O
+다	O
+.	O
+ 	O
+유	O
+럽	O
+의	O
+ 	O
+문	B-PU
+화	I-PU
+나	O
+ 	O
+음	B-PU
+식	I-PU
+을	O
+ 	O
+알	O
+아	O
+보	O
+고	O
+ 	O
+싶	O
+어	O
+요	O
+.	O
+--------------------------------------------------
+세	B-PR
+ 	I-PR
+달	I-PR
+동	O
+안	O
+ 	O
+아	B-LC
 시	I-LC
 아	I-LC
-,	O
-프	B-LC
-랑	I-LC
-스	I-LC
-,	O
-아	B-LC
-르	I-LC
-헨	I-LC
-티	I-LC
-나	I-LC
-,	O
-뉴	B-LC
-질	I-LC
-랜	I-LC
-드	I-LC
-,	O
-라	B-LC
-오	I-LC
-스	I-LC
-,	O
-요	B-LC
-르	I-LC
-단	I-LC
+ 	O
+여	O
+행	O
+을	O
+ 	O
+하	O
+려	O
+고	O
+ 	O
+합	O
+니	O
+다	O
+.	O
+ 	O
+맛	B-PU
+있	I-PU
+는	I-PU
+ 	I-PU
+음	I-PU
+식	I-PU
+이	O
+나	O
+ 	O
+놀	B-PU
+거	I-PU
+리	I-PU
+가	O
+ 	O
+많	O
+은	O
+ 	O
+도	O
+시	O
+로	O
+ 	O
+추	O
+천	O
+해	O
+주	O
+세	O
+요	O
+.	O
 --------------------------------------------------
-타	B-LC
-이	I-LC
-,	O
-베	B-LC
-트	I-LC
+한	B-PR
+달	I-PR
+정	O
+도	O
+ 	O
+여	O
+행	O
+가	O
+고	O
+ 	O
+싶	O
+은	O
+데	O
+ 	O
+시	B-WT
+원	I-WT
+한	I-WT
+ 	O
+곳	O
+이	O
+면	O
+ 	O
+좋	O
+겠	O
+어	O
+--------------------------------------------------
+친	B-AC
+구	I-AC
+와	O
+ 	O
+이	O
+번	O
+ 	O
+겨	B-DT
+울	I-DT
+에	O
+ 	O
+유	B-LC
+럽	I-LC
+에	O
+ 	O
+다	O
+녀	O
+오	O
+고	O
+ 	O
+싶	O
+은	O
+데	O
+ 	O
+기	O
+간	O
+은	O
+ 	O
+두	B-PR
+ 	I-PR
+달	I-PR
+ 	O
+정	O
+도	O
+ 	O
+생	O
+각	O
+중	O
+이	O
+야	O
+.	O
+ 	O
+맛	O
+있	O
+는	O
+음	B-PU
+식	I-PU
+이	O
+ 	O
+많	O
+은	O
+ 	O
+곳	O
+을	O
+ 	O
+추	O
+천	O
+해	O
+줘	O
+--------------------------------------------------
+세	B-PR
+ 	I-PR
+달	I-PR
+정	O
+도	O
+ 	O
+혼	B-AC
+자	I-AC
+ 	O
+여	O
+행	O
+하	O
+고	O
+싶	O
+어	O
+.	O
+ 	O
+한	O
+ 	O
+곳	O
+에	O
+ 	O
+오	O
+래	O
+ 	O
+머	O
+무	O
+르	O
+고	O
+ 	O
+싶	O
+은	O
+데	O
+ 	O
+춥	B-WT
+고	I-WT
+ 	O
+바	B-PU
+다	I-PU
+가	O
+ 	O
+근	O
+처	O
+인	O
+ 	O
+곳	O
+이	O
+ 	O
+있	O
+을	O
+까	O
+?	O
+--------------------------------------------------
+동	B-LC
 남	I-LC
-,	O
-몰	B-LC
-디	I-LC
-브	I-LC
-,	O
-체	B-LC
-코	I-LC
-,	O
-슬	B-LC
-로	I-LC
-바	I-LC
-키	I-LC
 아	I-LC
-,	O
-벨	B-LC
-기	I-LC
-에	I-LC
-,	O
-멕	B-LC
-시	I-LC
-코	I-LC
-,	O
-오	B-LC
-스	I-LC
-트	I-LC
-리	I-LC
-아	I-LC
+에	O
+서	O
+ 	O
+한	B-PR
+달	I-PR
+살	I-PR
+이	I-PR
+ 	O
+생	O
+각	O
+중	O
+인	O
+데	O
+ 	O
+액	B-PU
+티	I-PU
+비	I-PU
+티	I-PU
+를	O
+ 	O
+즐	O
+길	O
+ 	O
+수	O
+ 	O
+있	O
+는	O
+ 	O
+나	O
+라	O
+를	O
+ 	O
+추	O
+천	O
+해	O
+줘	O
+!	O
 --------------------------------------------------
-몽	B-LC
-골	I-LC
-,	O
-오	B-LC
-스	I-LC
-트	I-LC
-레	I-LC
-일	I-LC
-리	I-LC
-아	I-LC
-,	O
-필	B-LC
-리	I-LC
-핀	I-LC
-,	O
-타	B-LC
-이	I-LC
-완	I-LC
-,	O
-우	B-LC
-즈	I-LC
-베	I-LC
-키	I-LC
-스	I-LC
-탄	I-LC
-,	O
-네	B-LC
-덜	I-LC
-란	I-LC
-드	I-LC
-,	O
-헝	B-LC
-가	I-LC
-리	I-LC
+혼	B-AC
+자	I-AC
+ 	O
+여	O
+행	O
+을	O
+ 	O
+계	O
+획	O
+ 	O
+중	O
+인	O
+데	O
+ 	O
+두	B-PR
+ 	I-PR
+달	I-PR
+정	O
+도	O
+ 	O
+생	O
+각	O
+중	O
+이	O
+야	O
+ 	O
+쇼	B-PU
+핑	I-PU
+을	O
+ 	O
+할	O
+ 	O
+수	O
+ 	O
+있	O
+는	O
+ 	O
+곳	O
+으	O
+로	O
+ 	O
+알	O
+려	O
+줘	O
+.	O
 --------------------------------------------------
-핀	B-LC
-란	I-LC
-드	I-LC
-,	O
-캄	B-LC
-보	I-LC
-디	I-LC
-아	I-LC
-,	O
-카	B-LC
-자	I-LC
-흐	I-LC
-스	I-LC
-탄	I-LC
-,	O
-칠	B-LC
-레	I-LC
-,	O
-피	B-LC
-지	I-LC
-,	O
-남	B-LC
-아	I-LC
-프	I-LC
-리	I-LC
-카	I-LC
-공	I-LC
-화	I-LC
-국	I-LC
-,	O
-이	B-LC
-탈	I-LC
-리	I-LC
-아	I-LC
-,	O
-스	B-LC
-웨	I-LC
-덴	I-LC
+한	B-PR
+달	I-PR
+ 	O
+가	B-AC
+족	I-AC
+여	O
+행	O
+을	O
+ 	O
+계	O
+획	O
+중	O
+이	O
+야	O
+.	O
+ 	O
+아	B-AC
+이	I-AC
+가	O
+ 	O
+수	B-PU
+영	I-PU
+을	O
+ 	O
+좋	O
+아	O
+해	O
+서	O
+ 	O
+바	B-PU
+다	I-PU
+가	O
+ 	O
+근	O
+처	O
+에	O
+ 	O
+있	O
+는	O
+ 	O
+곳	O
+이	O
+면	O
+ 	O
+좋	O
+겠	O
+어	O
 --------------------------------------------------
-미	B-LC
-국	I-LC
-,	O
-모	B-LC
-로	I-LC
-코	I-LC
-,	O
-케	B-LC
-냐	I-LC
-,	O
-영	B-LC
-국	I-LC
-,	O
-아	B-LC
-랍	I-LC
-에	I-LC
-미	I-LC
-리	I-LC
-트	I-LC
-,	O
-괌	B-LC
-,	O
-홍	B-LC
-콩	I-LC
-,	O
-이	B-LC
-스	I-LC
-라	I-LC
-엘	I-LC
+6	B-PR
+개	I-PR
+월	I-PR
+ 	O
+정	O
+도	O
+ 	O
+혼	B-AC
+자	I-AC
+ 	O
+살	O
+다	O
+오	O
+고	O
+ 	O
+싶	O
+은	O
+데	O
+ 	O
+문	B-PU
+화	I-PU
+ 	I-PU
+생	I-PU
+활	I-PU
+도	O
+ 	O
+즐	O
+길	O
+ 	O
+수	O
+ 	O
+있	O
+고	O
+ 	O
+다	O
+양	O
+한	O
+ 	O
+활	B-PU
+동	I-PU
+이	O
+ 	O
+있	O
+는	O
+ 	O
+나	O
+라	O
+ 	O
+좀	O
+ 	O
+알	O
+려	O
+줘	O
 --------------------------------------------------
-인	B-LC
-도	I-LC
-네	I-LC
-시	I-LC
-아	I-LC
-,	O
-말	B-LC
-레	I-LC
-이	I-LC
-시	I-LC
-아	I-LC
-,	O
-네	B-LC
-팔	I-LC
-,	O
-독	B-LC
-일	I-LC
-,	O
-스	B-LC
-위	I-LC
-스	I-LC
-,	O
-포	B-LC
-르	I-LC
-투	I-LC
-갈	I-LC
-,	O
-덴	B-LC
-마	I-LC
-크	I-LC
-,	O
-스	B-LC
-페	I-LC
-인	I-LC
-,	O
-중	B-LC
-국	I-LC
+이	O
+번	O
+ 	O
+가	B-DT
+을	I-DT
+에	O
+ 	O
+한	B-PR
+달	I-PR
+동	O
+안	O
+ 	O
+혼	B-AC
+자	I-AC
+ 	O
+여	O
+행	O
+을	O
+ 	O
+다	O
+녀	O
+오	O
+려	O
+고	O
+ 	O
+합	O
+니	O
+다	O
+.	O
+ 	O
+시	B-WT
+원	I-WT
+한	I-WT
+ 	O
+날	O
+씨	O
+에	O
+ 	O
+활	O
+동	O
+적	O
+으	O
+로	O
+ 	O
+놀	B-PU
+고	I-PU
+ 	I-PU
+올	I-PU
+ 	I-PU
+수	I-PU
+ 	I-PU
+있	I-PU
+는	I-PU
+ 	O
+곳	O
+을	O
+ 	O
+추	O
+천	O
+해	O
+주	O
+세	O
+요	O
+.	O
 --------------------------------------------------
-베	B-LC
-이	I-LC
-징	I-LC
-,	O
-상	B-LC
-하	I-LC
-이	I-LC
-,	O
-광	B-LC
-저	I-LC
-우	I-LC
-,	O
-선	B-LC
-양	I-LC
-,	O
-칭	B-LC
-다	I-LC
-오	I-LC
-,	O
-도	B-LC
-쿄	I-LC
-,	O
-후	B-LC
-쿠	I-LC
-오	I-LC
-카	I-LC
-,	O
-나	B-LC
-고	I-LC
-야	I-LC
-,	O
-오	B-LC
-사	I-LC
-카	I-LC
-,	O
-삿	B-LC
-포	I-LC
-로	I-LC
+1	B-DT
+0	I-DT
+월	I-DT
+달	I-DT
+에	O
+ 	O
+6	B-PR
+개	I-PR
+월	I-PR
+간	I-PR
+ 	O
+여	O
+행	O
+을	O
+ 	O
+다	O
+녀	O
+오	O
+려	O
+고	O
+ 	O
+합	O
+니	O
+다	O
+.	O
+ 	O
+길	O
+게	O
+ 	O
+가	O
+는	O
+ 	O
+만	O
+큼	O
+ 	O
+다	O
+양	O
+한	O
+ 	O
+볼	B-PU
+거	I-PU
+리	I-PU
+가	O
+ 	O
+있	O
+었	O
+음	O
+ 	O
+좋	O
+겠	O
+고	O
+ 	O
+맛	O
+있	O
+는	O
+ 	O
+음	B-PU
+식	I-PU
+이	O
+ 	O
+많	O
+았	O
+으	O
+면	O
+ 	O
+좋	O
+겠	O
+어	O
+요	O
+.	O
 --------------------------------------------------
-방	B-LC
-콕	I-LC
-,	O
-푸	B-LC
-켓	I-LC
-,	O
-파	B-LC
-타	I-LC
-야	I-LC
-,	O
-마	B-LC
-닐	I-LC
-라	I-LC
-,	O
-세	B-LC
-부	I-LC
-,	O
-홍	B-LC
-콩	I-LC
-,	O
-하	B-LC
-노	I-LC
-이	I-LC
-,	O
-호	B-LC
-찌	I-LC
-민	I-LC
-,	O
-싱	B-LC
-가	I-LC
-포	I-LC
-르	I-LC
-,	O
-마	B-LC
-카	I-LC
-오	I-LC
---------------------------------------------------
-자	B-LC
-카	I-LC
-르	I-LC
-타	I-LC
-,	O
-발	B-LC
-리	I-LC
-,	O
-시	B-LC
-엠	I-LC
-레	I-LC
-아	I-LC
-프	I-LC
-,	O
-쿠	B-LC
-알	I-LC
-라	I-LC
-룸	I-LC
-푸	I-LC
-르	I-LC
-,	O
-코	B-LC
-타	I-LC
-키	I-LC
-나	I-LC
-발	I-LC
-루	I-LC
-,	O
-타	B-LC
-이	I-LC
-베	I-LC
-이	I-LC
-,	O
-뭄	B-LC
-바	I-LC
-이	I-LC
-,	O
-울	B-LC
-란	I-LC
-바	I-LC
-토	I-LC
-르	I-LC
---------------------------------------------------
-비	B-LC
-엔	I-LC
-티	I-LC
-안	I-LC
-,	O
-말	B-LC
-레	I-LC
-,	O
-카	B-LC
-트	I-LC
-만	I-LC
-두	I-LC
-,	O
-알	B-LC
-마	I-LC
-티	I-LC
-,	O
-타	B-LC
-슈	I-LC
-켄	I-LC
-트	I-LC
-,	O
-뉴	B-LC
-욕	I-LC
-,	O
-로	B-LC
-스	I-LC
-앤	I-LC
-젤	I-LC
-레	I-LC
-스	I-LC
-,	O
-하	B-LC
-와	I-LC
-이	I-LC
-,	O
-밴	B-LC
-쿠	I-LC
-버	I-LC
---------------------------------------------------
-멕	B-LC
-시	I-LC
-코	I-LC
-시	I-LC
-티	I-LC
-,	O
-상	B-LC
-파	I-LC
-울	I-LC
-루	I-LC
-,	O
-산	B-LC
-티	I-LC
-아	I-LC
-고	I-LC
-,	O
-부	B-LC
-에	I-LC
-노	I-LC
-스	I-LC
-아	I-LC
-이	I-LC
-레	I-LC
-스	I-LC
-,	O
-시	B-LC
-드	I-LC
-니	I-LC
-,	O
-멜	B-LC
-버	I-LC
-른	I-LC
---------------------------------------------------
-브	B-LC
-리	I-LC
-즈	I-LC
-번	I-LC
-,	O
-괌	B-LC
-,	O
-사	B-LC
-이	I-LC
-판	I-LC
-,	O
-오	B-LC
-클	I-LC
-랜	I-LC
-드	I-LC
-,	O
-코	B-LC
-로	I-LC
-르	I-LC
-,	O
-난	B-LC
-디	I-LC
-,	O
-카	B-LC
-이	I-LC
-로	I-LC
---------------------------------------------------
-텔	B-LC
-아	I-LC
-비	I-LC
-브	I-LC
-,	O
-아	B-LC
-부	I-LC
-다	I-LC
-비	I-LC
-,	O
-두	B-LC
-바	I-LC
-이	I-LC
-,	O
-케	B-LC
-이	I-LC
-프	I-LC
-타	I-LC
-운	I-LC
-,	O
-라	B-LC
-바	I-LC
-트	I-LC
-,	O
-나	B-LC
-이	I-LC
-로	I-LC
-비	I-LC
-,	O
-암	B-LC
-만	I-LC
---------------------------------------------------
-프	B-LC
-랑	I-LC
-크	I-LC
-푸	I-LC
-르	I-LC
-트	I-LC
-,	O
-이	B-LC
-스	I-LC
-탄	I-LC
-불	I-LC
-,	O
-런	B-LC
-던	I-LC
-,	O
-모	B-LC
-스	I-LC
-크	I-LC
-바	I-LC
-,	O
-상	B-LC
-트	I-LC
- 	I-LC
-페	I-LC
-테	I-LC
-르	I-LC
-부	I-LC
-르	I-LC
-크	I-LC
-,	O
-프	B-LC
-라	I-LC
-하	I-LC
-,	O
-빈	B-LC
---------------------------------------------------
-취	B-LC
-리	I-LC
-히	I-LC
-,	O
-제	B-LC
-네	I-LC
-바	I-LC
-,	O
-로	B-LC
-마	I-LC
-,	O
-밀	B-LC
-라	I-LC
-노	I-LC
-,	O
-베	B-LC
-네	I-LC
-치	I-LC
-아	I-LC
-,	O
-오	B-LC
-슬	I-LC
-로	I-LC
-,	O
-리	B-LC
-스	I-LC
-본	I-LC
-,	O
-브	B-LC
-라	I-LC
-티	I-LC
-슬	I-LC
-라	I-LC
-바	I-LC
---------------------------------------------------
-암	B-LC
-스	I-LC
-테	I-LC
-르	I-LC
-담	I-LC
-,	O
-파	B-LC
-리	I-LC
-,	O
-코	B-LC
-펜	I-LC
-하	I-LC
-겐	I-LC
-,	O
-브	B-LC
-뤼	I-LC
-셀	I-LC
-,	O
-스	B-LC
-톡	I-LC
-홀	I-LC
-름	I-LC
-,	O
-부	B-LC
-다	I-LC
-페	I-LC
-스	I-LC
-트	I-LC
---------------------------------------------------
-헬	B-LC
-싱	I-LC
-키	I-LC
-,	O
-아	B-LC
-테	I-LC
-네	I-LC
-,	O
-마	B-LC
-드	I-LC
-리	I-LC
-드	I-LC
-,	O
-바	B-LC
-르	I-LC
-셀	I-LC
-로	I-LC
-나	I-LC
-,	O
-그	B-LC
-리	I-LC
-스	I-LC
-,	O
-북	B-LC
-마	I-LC
-리	I-LC
-아	I-LC
-나	I-LC
- 	I-LC
-제	I-LC
-도	I-LC
- 	I-LC
-연	I-LC
-방	I-LC
+여	B-AC
+자	I-AC
+친	I-AC
+구	I-AC
+와	O
+ 	O
+한	B-PR
+달	I-PR
+정	O
+도	O
+ 	O
+여	O
+행	O
+을	O
+ 	O
+다	O
+녀	O
+오	O
+려	O
+고	O
+ 	O
+합	O
+니	O
+다	O
+.	O
+ 	O
+휴	B-PU
+양	I-PU
+을	O
+ 	O
+주	O
+로	O
+ 	O
+하	O
+고	O
+싶	O
+고	O
+ 	O
+쇼	B-PU
+핑	I-PU
+도	O
+ 	O
+많	O
+이	O
+ 	O
+할	O
+ 	O
+수	O
+ 	O
+있	O
+는	O
+ 	O
+곳	O
+이	O
+ 	O
+좋	O
+을	O
+ 	O
+것	O
+ 	O
+같	O
+아	O
+요	O
+.	O
 --------------------------------------------------
