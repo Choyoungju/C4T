@@ -1,5 +1,4 @@
-model_checkpoint_path: "model.ckpt-7739"
+model_checkpoint_path: "model.ckpt-5549"
 all_model_checkpoint_paths: "model.ckpt-0"
-all_model_checkpoint_paths: "model.ckpt-2496"
-all_model_checkpoint_paths: "model.ckpt-5210"
-all_model_checkpoint_paths: "model.ckpt-7739"
+all_model_checkpoint_paths: "model.ckpt-2723"
+all_model_checkpoint_paths: "model.ckpt-5549"
